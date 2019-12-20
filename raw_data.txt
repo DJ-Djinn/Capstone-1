@@ -1,0 +1,3154 @@
+=====Pokémon Red and Blue=====
+{{MS|001|Bulbasaur (Pokémon)}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}175
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Professor Oak's Laboratory
+|pokemon=1}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=004
+|pokemon=Charmander
+|level=5
+|type1=Fire
+|move1=Scratch|move1type=Normal
+|move2=Growl|move2type=Normal}}
+{{Party/Footer}}
+
+{{MS|004|Charmander (Pokémon)}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}175
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Professor Oak's Laboratory
+|pokemon=1}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=007
+|pokemon=Squirtle
+|level=5
+|type1=Water
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal}}
+{{Party/Footer}}
+
+{{MS|007|Squirtle (Pokémon)}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}175
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Professor Oak's Laboratory
+|pokemon=1}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=001
+|pokemon=Bulbasaur
+|level=5
+|type1=Grass
+|type2=Poison
+|move1=Tackle
+|move1type=Normal
+|move2=Growl
+|move2type=Normal}}
+{{Party/Footer}}===={{game|Red and Blue|s}}====
+=====Optional battle=====
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png|prize={{PDollar}}280|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|pokemon=2}}
+|{{Pokémon/1|game=Red|ndex=016|pokemon=Pidgey|level=9|
+type1=Normal|type2=Flying|
+move1=Gust|move1type=Normal|
+move2=Sand-Attack|move2type=Normal}}
+|{{Pokémon/1|game=Red|ndex=004|pokemon=Charmander|level=8|
+type1=Fire|
+move1=Scratch|move1type=Normal|
+move2=Growl|move2type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}|
+sprite=Spr RG Blue 1.png|prize={{PDollar}}280|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|
+pokemon=2}}
+|{{Pokémon/1|game=Red|ndex=016|pokemon=Pidgey|level=9|
+type1=Normal|type2=Flying|
+move1=Gust|move1type=Normal|
+move2=Sand-Attack|move2type=Normal}}
+|{{Pokémon/1|game=Red|ndex=007|pokemon=Squirtle|level=8|
+type1=Water|
+move1=Tackle|move1type=Normal|
+move2=Tail Whip|move2type=Normal|
+move3=Bubble|move3type=Water}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}|
+sprite=Spr RG Blue 1.png|prize={{PDollar}}280|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|
+pokemon=2}}
+|{{Pokémon/1|game=Red|ndex=016|pokemon=Pidgey|level=9|
+type1=Normal|type2=Flying|
+move1=Gust|move1type=Normal|
+move2=Sand-Attack|move2type=Normal}}
+|{{Pokémon/1|game=Red|ndex=001|pokemon=Bulbasaur|level=8|
+type1=Grass|type2=Poison|
+move1=Tackle|move1type=Normal|
+move2=Growl|move2type=Normal|
+move3=Leech Seed|move3type=Grass}}
+{{Party/Footer}}
+
+=====Mandatory battle=====
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}|
+sprite=Spr RG Blue 2.png|prize={{PDollar}}3445|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|
+pokemon=6}}
+|{{Pokémon/1|game=Red|ndex=018|pokemon=Pidgeot|level=47|
+type1=Normal|type2=Flying|
+move1=Wing Attack|move1type=Flying|
+move2=Agility|move2type=Psychic|
+move3=Quick Attack|move3type=Normal|
+move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=111|pokemon=Rhyhorn|level=45|
+type1=Ground|type2=Rock|
+move1=Fury Attack|move1type=Normal|
+move2=Stomp|move2type=Normal|
+move3=Horn Attack|move3type=Normal|
+move4=Tail Whip|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=102|
+pokemon=Exeggcute|level=45|
+type1=Grass|type2=Psychic|
+move1=Leech Seed|move1type=Grass|
+move2=PoisonPowder|move2type=Poison|
+move3=SolarBeam|move3type=Grass|
+move4=Growth|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1|game=Red|ndex=130|pokemon=Gyarados|level=47|
+type1=Water|type2=Flying|
+move1=Dragon Rage|move1type=Dragon|
+move2=Hydro Pump|move2type=Water|
+move3=Bite|move3type=Normal|
+move4=Leer|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=065|pokemon=Alakazam|level=50|
+type1=Psychic|
+move1=Psychic|move1type=Psychic|
+move2=Psybeam|move2type=Psychic|
+move3=Reflect|move3type=Psychic|
+move4=Recover|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=006|pokemon=Charizard|level=53|
+type1=Fire|type2=Flying|
+move1=Flamethrower|move1type=Fire|
+move2=Slash|move2type=Normal|
+move3=Rage|move3type=Normal|
+move4=Leer|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}|
+sprite=Spr RG Blue 2.png|prize={{PDollar}}3445|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|
+pokemon=6}}
+|{{Pokémon/1|game=Red|ndex=018|pokemon=Pidgeot|level=47|
+type1=Normal|type2=Flying|
+move1=Wing Attack|move1type=Flying|
+move2=Agility|move2type=Psychic|
+move3=Quick Attack|move3type=Normal|
+move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=111|pokemon=Rhyhorn|level=45|
+type1=Ground|type2=Rock|
+move1=Fury Attack|move1type=Normal|
+move2=Stomp|move2type=Normal|
+move3=Horn Attack|move3type=Normal|
+move4=Tail Whip|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=058|pokemon=Growlithe|level=45|
+type1=Fire|
+move1=Ember|move1type=Fire|
+move2=Take Down|move2type=Normal|
+move3=Leer|move3type=Normal|
+move4=Agility|move4type=Psychic}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1|game=Red|ndex=102|pokemon=Exeggcute|level=47|
+type1=Grass|type2=Psychic|
+move1=Leech Seed|move1type=Grass|
+move2=PoisonPowder|move2type=Poison|
+move3=SolarBeam|move3type=Grass|
+move4=Growth|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=065|pokemon=Alakazam|level=50|
+type1=Psychic|
+move1=Psychic|move1type=Psychic|
+move2=Psybeam|move2type=Psychic|
+move3=Reflect|move3type=Psychic|
+move4=Recover|move4type=Normal|}}
+|{{Pokémon/1|game=Red|ndex=009|pokemon=Blastoise|level=53|
+type1=Water|
+move1=Hydro Pump|move1type=Water|
+move2=Bite|move2type=Normal|
+move3=Skull Bash|move3type=Normal|
+move4=Withdraw|move4type=Water}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}|
+sprite=Spr RG Blue 2.png|prize={{PDollar}}3445|name={{color2|000|Blue (game)|Blue}}|game=RGB|
+location=Kanto Route 22|locationname=Route 22|
+pokemon=6}}
+|{{Pokémon/1|game=Red|ndex=018|pokemon=Pidgeot|level=47|
+type1=Normal|type2=Flying|
+move1=Wing Attack|move1type=Flying|
+move2=Agility|move2type=Psychic|
+move3=Quick Attack|move3type=Normal|
+move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=111|pokemon=Rhyhorn|level=45|
+type1=Ground|type2=Rock|
+move1=Fury Attack|move1type=Normal|
+move2=Stomp|move2type=Normal|
+move3=Horn Attack|move3type=Normal|
+move4=Tail Whip|move4type=Normal|}}
+|{{Pokémon/1|game=Red|ndex=130|pokemon=Gyarados|level=45|
+type1=Water|type2=Flying|
+move1=Dragon Rage|move1type=Dragon|
+move2=Hydro Pump|move2type=Water|
+move3=Bite|move3type=Normal|
+move4=Leer|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1|game=Red|ndex=058|pokemon=Growlithe|level=47|
+type1=Fire|
+move1=Ember|move1type=Fire|
+move2=Take Down|move2type=Normal|
+move3=Leer|move3type=Normal|
+move4=Agility|move4type=Psychic}}
+|{{Pokémon/1|game=Red|ndex=065|pokemon=Alakazam|level=50|
+type1=Psychic|
+move1=Psychic|move1type=Psychic|
+move2=Psybeam|move2type=Psychic|
+move3=Reflect|move3type=Psychic|
+move4=Recover|move4type=Normal}}
+|{{Pokémon/1|game=Red|ndex=003|pokemon=Venusaur|level=53|
+type1=Grass|type2=Poison|
+move1=Vine Whip|move1type=Grass|
+move2=PoisonPowder|move2type=Poison|
+move3=Razor Leaf|move3type=Grass|
+move4=Growth|move4type=Normal}}
+{{Party/Footer}}====Pokémon Red and Blue====
+{{Trainerheader|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||60|2|013|Weedle||6||010|Caterpie||6|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||70|3|013|Weedle||7||014|Kakuna||7||013|Weedle||7|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||90|1|013|Weedle||9|||}}
+{{Trainerfooter|forest|I}}====={{game|Red and Blue|s}}=====
+{{Trainerheader|Rock}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||220|2|050|Diglett||11|None|027|Sandshrew||11|None}}
+{{Trainerfooter|Rock||Inside}}
+
+{{Party/Single
+|color={{rock color}}
+|bordercolor={{rock color dark}}
+|headcolor={{rock color light}}
+|sprite=Spr RG Brock.png
+|prize={{PDollar}}1386
+<!--GEN I HAD NO CLASSES-->
+|name={{color2|000|Brock}}
+|game=RGB
+|location=Pewter Gym
+|pokemon=2}}
+|{{Pokémon/1
+|ndex=074
+|game=Red
+|pokemon=Geodude
+|level=12
+|type1=Rock|type2=Ground
+|move1=Tackle|move1type=Normal
+|move2=Defense Curl|move2type=Normal}}
+|{{Pokémon/1
+|ndex=095
+|pokemon=Onix
+|game=Red
+|level=14
+|type1=Rock|type2=Ground
+|move1=Tackle|move1type=Normal
+|move2=Screech|move2type=Normal
+|move3=Bide|move3type=Normal}}
+{{Party/Footer}}===Generation I===
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr RG Lass.png|Lass||135|2|016|Pidgey||9||016|Pidgey||9|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||100|3|010|Caterpie||10||013|Weedle||10||010|Caterpie||10|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||165|2|019|Rattata||11||023|Ekans||11|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||90|4|013|Weedle||9||014|Kakuna||9||010|Caterpie||9||011|Metapod||9|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||210|1|021|Spearow||14|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Lass.png|Lass||150|2|019|Rattata||10||032|Nidoran♂||10|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||110|2|010|Caterpie||11||011|Metapod||11|||}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Lass.png|Lass||210|1|039|Jigglypuff||14|||}}
+{{Trainerfooter|mountain|1}}===Generation I===
+====1F====
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr RG Lass.png‎|Lass||210|1|035|Clefairy||14|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png‎|Bug Catcher||110|2|013|Weedle||11|None|014|Kakuna||11|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Super Nerd.png‎|Super Nerd||275|2|081|Magnemite||11|None|100|Voltorb||11|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png‎|Bug Catcher||100|3|010|Caterpie||10|None|011|Metapod||10|None|010|Caterpie||10|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Lass.png‎|Lass||165|2|043|Oddish||11|None|069|Bellsprout||11|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Youngster.png‎|Youngster||150|3|019|Rattata||10|None|019|Rattata||10|None|041|Zubat||10|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png‎|Hiker||350|3|074|Geodude||10|None|074|Geodude||10|None|095|Onix||10|None|}}
+{{Trainerfooter|mountain|1}}
+
+====B2F====
+{{Trainerheader|mountain}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||330|3|027|Sandshrew||11|None|019|Rattata||11|None|041|Zubat||11|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||360|2|041|Zubat||12|None|023|Ekans||12|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket|{{Sup/1|RB}}|480|1|020|Raticate||16|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||390|2|019|Rattata||13|None|041|Zubat||13|None|}}
+{{Trainerdiv|mountain}}
+{{Trainerentry|Spr RG Super Nerd.png‎|Super Nerd||300|3|088|Grimer||12|None|100|Voltorb||12|None|109|Koffing||12|None|}}
+{{Trainerfooter|mountain|1}}
+
+====={{game|Yellow}}=====
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr Y Jessie James.png
+|prize={{Pdollar}}420
+|name={{color2|000|Team Rocket trio|Rocket}}
+|game=Yellow
+|location=Mt. Moon
+|pokemon=3}}
+|{{Pokémon/1|game=Yellow|ndex=023|pokemon=Ekans
+|level=14|type1=Poison
+|move1=Wrap|move1type=Normal
+|move2=Leer|move2type=Normal
+|move3=Poison Sting|move3type=Poison}}
+|{{Pokémon/1|game=Yellow|ndex=052|pokemon=Meowth
+|level=14|type1=Normal
+|move1=Scratch|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Bite|move3type=Normal}}
+|{{Pokémon/1|game=Yellow|ndex=109|pokemon=Koffing
+|level=14|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison}}
+{{Party/Footer}}===Generation I===
+{{trainerheader|mountain}}
+{{trainerdiv|mountain|Requires Surf}}
+{{Trainerentry|Spr RG Lass.png|Lass||465|3|046|Paras||31|None|046|Paras||31|None|047|Parasect||31|None||}}
+{{Trainerfooter|mountain|1}}===Generation I===
+===={{game|Red and Blue|s}}====
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}595
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Cerulean City
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=18
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=063
+|pokemon=Abra
+|level=15
+|type1=Psychic
+|move1=Teleport|move1type=Psychic}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=019
+|pokemon=Rattata
+|level=15
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=004
+|pokemon=Charmander
+|level=17
+|type1=Fire
+|move1=Scratch|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Ember|move3type=Fire
+|move4=Leer|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}595
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Cerulean City
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=18
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=063
+|pokemon=Abra
+|level=15
+|type1=Psychic
+|move1=Teleport|move1type=Psychic}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=019
+|pokemon=Rattata
+|level=15
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=007
+|pokemon=Squirtle
+|level=17
+|type1=Water
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Bubble|move3type=Water
+|move4=Water Gun|move4type=Water}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 1.png
+|prize={{PDollar}}595
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Cerulean City
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=18
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=063
+|pokemon=Abra
+|level=15
+|type1=Psychic
+|move1=Teleport|move1type=Psychic}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=019
+|pokemon=Rattata
+|level=15
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=001
+|pokemon=Bulbasaur
+|level=17
+|type1=Grass|type2=Poison
+|move1=Tackle|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Leech Seed|move3type=Grass
+|move4=Vine Whip|move4type=Grass}}
+{{Party/Footer}}
+
+===={{game|Yellow}}====
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 1.png
+|prize={{PDollar}}595
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Cerulean City
+|pokemon=4}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=021
+|pokemon=Spearow
+|level=18
+|type1=Normal|type2=Flying
+|move1=Peck|move1type=Flying
+|move2=Growl|move2type=Normal
+|move3=Leer|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=027
+|pokemon=Sandshrew
+|level=15
+|type1=Ground
+|move1=Scratch|move1type=Normal
+|move2=Sand-Attack|move2type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=019
+|pokemon=Rattata
+|level=15
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=133
+|pokemon=Eevee
+|level=17
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Sand-Attack|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}
+
+====All versions====
+{{Trainerheader|road}}
+{{Trainerdiv|road|After obtaining the S.S. Ticket}}
+{{Trainerentry|Spr RG Rocket.png|Rocket||510|2|066|Machop||17|None|096|Drowzee||17|None}}
+{{Trainerfooter|road|1|Inside}}===Generation I===
+{{Trainerheader}}
+{{Trainerdiv|land|Nugget Bridge}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||140|2|010|Caterpie||14||013|Weedle||14||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Lass.png|Lass||210|2|016|Pidgey||14||029|Nidoran♀||14||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||210|3|019|Rattata||14||023|Ekans||14||041|Zubat||14||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Lass.png|Lass||240|2|016|Pidgey||16||029|Nidoran♀||16||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||360|1|056|Mankey||18||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Rocket.png|Rocket||450|2|023|Ekans||15||041|Zubat||15||}}
+{{Trainerdiv|land|Grassy area}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||280|2|019|Rattata||14||023|Ekans||14||}}
+{{Trainerfooter|land|I}}===Generation I===
+{{Trainerheader}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||525|2|066|Machop||15||074|Geodude||15||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||595|1|095|Onix||17||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||225|2|019|Rattata||15||021|Spearow||15||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||255|1|079|Slowpoke||17||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Lass.png|Lass||225|2|032|Nidoran♂||15||029|Nidoran♀||15||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||455|4|074|Geodude||13||074|Geodude||13||066|Machop||13||074|Geodude||13||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||280|2|019|Rattata||14||023|Ekans||14||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||210|2|023|Ekans||14||027|Sandshrew||14||}}
+{{Trainerdiv}}
+{{Trainerentry|Spr RG Lass.png|Lass||195|3|043|Oddish||13||016|Pidgey||13||043|Oddish||13||}}
+{{Trainerfooter|land|I}}====={{game2|Red|Blue|Yellow}}=====
+{{Trainerheader|Water}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||80|2|116|Horsea||16|None|090|Shellder||16|None}}
+{{Trainerdiv|Water}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||380|1|118|Goldeen||19|None}}
+{{Trainerfooter|Water|1|Inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{water color}}
+|bordercolor={{water color dark}}
+|headcolor={{water color light}}
+|sprite=Spr RG Misty.png
+|prize={{pdollar}}2079
+|name={{color2|000|Misty}}
+|game=RGB
+|location=Cerulean Gym
+|pokemon=2}}
+|{{Pokémon/1
+|ndex=120
+|pokemon=Staryu
+|game=Blue
+|type1=Water
+|level=18
+|move1=Tackle|move1type=Normal
+|move2=Water Gun|move2type=Water}}
+|{{Pokémon/1
+|ndex=121
+|pokemon=Starmie
+|game=Blue
+|type1=Water|type2=Psychic
+|level=21
+|move1=Tackle|move1type=Normal
+|move2=Water Gun|move2type=Water
+|move3=BubbleBeam|move3type=Water}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{water color}}
+|bordercolor={{water color dark}}
+|headcolor={{water color light}}
+|sprite=Spr Y Misty.png
+|prize={{pdollar}}2079
+|name={{color2|000|Misty}}
+|game=Y
+|location=Cerulean Gym
+|pokemon=2}}
+|{{Pokémon/1
+|ndex=120
+|pokemon=Staryu
+|game=Yellow
+|type1=Water|level=18
+|move1=Tackle|move1type=Normal
+|move2=Water Gun|move2type=Water}}
+|{{Pokémon/1
+|ndex=121
+|pokemon=Starmie
+|game=Yellow
+|type1=Water|type2=Psychic
+|level=21
+|move1=Tackle|move1type=Normal
+|move2=Water Gun|move2type=Water
+|move3=Harden|move3type=Normal
+|move4=BubbleBeam|move4type=Water}}
+{{Party/Footer}}===Generation I===
+{{trainerheader}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||160|3|013|Weedle||16||010|Caterpie||16||013|Weedle||16||}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂|{{sup/1|RB}}|400|1|007|Squirtle||20||}}
+{{Trainerentry|Spr Y Jr Trainer M.png|Jr. Trainer♂|[[Joe (EP009)|*]]{{sup/1|Y}}|320|1|070|Weepinbell||16||}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀|{{sup/1|RB}}|320|2|019|Rattata||16||025|Pikachu||16||}}
+{{Trainerentry|Spr Y Jr Trainer F.png|Jr. Trainer♀|[[Giselle|*]]{{sup/1|Y}}|400|1|104|Cubone||20||}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||200|1|012|Butterfree||20||}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||320|3|016|Pidgey||16||016|Pidgey||16||016|Pidgey||16||}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||320|2|021|Spearow||16||020|Raticate||16||}}
+{{trainerfooter|land|I}}===Generation I===
+{{trainerheader}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1260|2|060|Poliwag||18|None|116|Horsea||18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||315|1|023|Ekans||21|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||285|2|027|Sandshrew||19|None|041|Zubat||19|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||270|2|032|Nidoran♂||18|None|033|Nidorino||18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1260|2|069|Bellsprout||18|None|043|Oddish||18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1260|2|058|Growlithe||18|None|037|Vulpix||18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Engineer.png|Engineer||1050|1|081|Magnemite|None|21|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||255|3|019|Rattata||17|None|019|Rattata||17|None|020|Raticate||17|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1260|2|100|Voltorb|None|18|None|081|Magnemite|None|18|None}}
+{{trainerdiv}}
+{{Trainerentry|Spr RG Engineer.png|Engineer||900|3|081|Magnemite||18|None|081|Magnemite||18|None|082|Magneton||18|None}}
+{{trainerfooter|land|I}}===Generation I===
+====Deck====
+{{trainerheader|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||510|2|066|Machop||17||072|Tentacool||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||540|2|066|Machop||18||090|Shellder||18}}
+{{Trainerfooter|ocean|I}}
+
+====B1F====
+{{trainerheader|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||630|1|090|Shellder||21}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||510|3|116|Horsea||17||090|Shellder||17||072|Tentacool||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||510|3|116|Horsea||17||116|Horsea||17||116|Horsea||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||540|2|072|Tentacool||18||120|Staryu||18}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||595|3|072|Tentacool||17||120|Staryu||17||090|Shellder||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||600|1|066|Machop||20}}
+{{Trainerfooter|ocean|I}}
+
+====1F====
+{{trainerheader|ocean}}
+{{Trainerentry|Spr RG Gentleman.png|Gentleman||1260|2|058|Growlithe||18||058|Growlithe||18}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Gentleman.png|Gentleman||1330|2|032|Nidoran♂||19||029|Nidoran♀||19}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Lass.png|Lass||270|2|016|Pidgey||18||029|Nidoran♀||18}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Youngster.png|Youngster||315|1|032|Nidoran♂||21}}
+{{Trainerfooter|ocean|I}}
+
+====2F====
+{{trainerheader|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||595|3|118|Goldeen||17||072|Tentacool||17||118|Goldeen||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Gentleman.png|Gentleman|{{sup/1|RB}}|1610|1|025|Pikachu||23}}
+{{Trainerentry|Spr Y Gentleman.png|Gentleman|{{sup/1|Y}}|1540|2|100|Voltorb||22||081|Magnemite||22}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Gentleman.png|Gentleman||1190|2|058|Growlithe||17||077|Ponyta||17}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Lass.png|Lass|{{sup/1|RB}}|270|2|019|Rattata||18||025|Pikachu||18}}
+{{Trainerentry|Spr Y Lass.png|Lass|{{sup/1|Y}}|300|1|039|Jigglypuff||20}}
+{{Trainerfooter|ocean|I}}
+
+=====Pokémon Red and Blue=====
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}1300
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=S.S. Anne
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=19
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=020
+|pokemon=Raticate
+|level=16
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=18
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=005
+|pokemon=Charmeleon
+|level=20
+|type1=Fire
+|move1=Scratch|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Ember|move3type=Fire
+|move4=Leer|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}1300
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=S.S. Anne
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=19
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=020
+|pokemon=Raticate
+|level=16
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=18
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=008
+|pokemon=Wartortle
+|level=20
+|type1=Water
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Bubble|move3type=Water
+|move4=Water Gun|move4type=Water}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single|color={{blue color}}|headcolor={{blue color light}}|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}1300
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=S.S. Anne
+|pokemon=4}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=19
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=020
+|pokemon=Raticate
+|level=16
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=18
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=002
+|pokemon=Ivysaur
+|level=20
+|type1=Grass|type2=Poison
+|move1=Tackle|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Leech Seed|move3type=Grass
+|move4=Vine Whip|move4type=Grass}}
+{{Party/Footer}}
+
+=====Pokémon Yellow=====
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{pdollar}}1300
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=S.S. Anne
+|pokemon=4}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=021
+|pokemon=Spearow
+|level=19
+|type1=Normal|type2=Flying
+|move1=Peck|move1type=Flying
+|move2=Growl|move2type=Normal
+|move3=Leer|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=019
+|pokemon=Rattata
+|level=16
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Hyper Fang|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=027
+|pokemon=Sandshrew
+|level=18
+|type1=Ground
+|move1=Scratch|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Slash|move3type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=133
+|pokemon=Eevee
+|level=20
+|type1=Normal
+|move1=Tackle|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Sand-Attack|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}====={{game|Red and Blue|s}}=====
+{{Trainerheader|Electric}}
+{{Trainerentry|Spr RG Sailor.png|Sailor||630|2|025|Pikachu||21|None|025|Pikachu||21|None}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RG Rocker.png|Rocker||500|3|100|Voltorb||20|None|081|Magnemite||20|None|100|Voltorb||20|None}}
+{{Trainerdiv|Electric}}
+{{Trainerentry|Spr RG Gentleman.png|Gentleman||1610|1|025|Pikachu||23|None}}
+{{Trainerfooter|Electric|1|inside}}
+
+{{Party/Single|color={{electric color}}|bordercolor={{electric color dark}}|headcolor={{electric color light}}
+|sprite=Spr RG Lt Surge.png
+|prize={{PDollar}}2376
+|name={{color2|000|Lt. Surge}}
+|game=RGB
+|location=Vermilion Gym
+|pokemon=3}}
+|{{Pokémon/1|game=Red and Blue|ndex=100|pokemon=Voltorb
+|level=21|type1=Electric
+|move1=Tackle|move1type=Normal
+|move2=Screech|move2type=Normal
+|move3=SonicBoom|move3type=Normal}}
+|{{Pokémon/1|game=Red and Blue|ndex=025|pokemon=Pikachu
+|level=18|type1=Electric
+|move1=ThunderShock|move1type=Electric
+|move2=Growl|move2type=Normal
+|move3=Thunder Wave|move3type=Electric
+|move4=Quick Attack|move4type=Normal}}
+|{{Pokémon/1|game=Red and Blue|ndex=026|pokemon=Raichu
+|level=24|type1=Electric
+|move1=ThunderShock|move1type=Electric
+|move2=Growl|move2type=Normal
+|move3=Thunderbolt|move3type=Electric}}
+{{Party/Footer}}===Generation I===
+{{trainerheader|mountain}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||360|4|043|Oddish||18||069|Bellsprout||18||043|Oddish||18||069|Bellsprout||18||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||700|2|066|Machop||20||095|Onix||20||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂|{{sup/1|RB}}|420|2|058|Growlithe||21||004|Charmander||21||}}
+{{Trainerentry|Spr Y Youngster.png|Youngster|[[A.J.|*]]{{sup/1|Y}}|360|1|027|Sandshrew||24|}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||190|2|015|Beedrill||19||015|Beedrill||19||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||735|2|074|Geodude||21||095|Onix||21||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Bug Catcher.png|Bug Catcher||200|3|010|Caterpie||20||013|Weedle||20||048|Venonat||20||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||380|4|019|Rattata||19||050|Diglett||19||023|Ekans||19||027|Sandshrew||19||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||700|3|074|Geodude||20||066|Machop||20||074|Geodude||20||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||460|1|052|Meowth||23||}}
+{{trainerfooter|mountain|I}}===Generation I===
+{{trainerheader|mountain}}
+{{trainerdiv|mountain|Northern segment}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀|{{Sup/1|RB}}|400|2|025|Pikachu||20||035|Clefairy||20||}}
+{{Trainerentry|Spr Y Jr Trainer F.png|Jr. Trainer♀|{{sup/1|Y}}|400|2|039|Jigglypuff||20||035|Clefairy||20||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1500<br><small>Requires {{m|Surf}}</small>|2|111|Rhyhorn||30||108|Lickitung||30||}}
+{{trainerdiv|mountain|Southern segment}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||420|2|016|Pidgey||21||017|Pidgeotto||21||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||735|2|074|Geodude||21||095|Onix||21||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||665|2|095|Onix||19||075|Graveler||19||}}
+{{trainerdiv|mountain}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1000|2|104|Cubone||20||079|Slowpoke||20||}}
+{{trainerfooter|mountain|I}}===Generation I===
+{{Trainerheader|cave}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1150|2|104|Cubone||23|None|079|Slowpoke||23|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1250|1|079|Slowpoke||25|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Jr Trainer F.png‎|Jr. Trainer♀||440|2|043|Oddish||22|None|001|Bulbasaur||22|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1100|2|004|Charmander||22|None|104|Cubone||22|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||875|1|074|Geodude||25|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||700|2|066|Machop||20|None|095|Onix||20|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||665|4|074|Geodude||19|None|066|Machop||19|None|074|Geodude||19|None|074|Geodude||19|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||700|3|095|Onix||20|None|095|Onix||20|None|074|Geodude||20|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png|Hiker||735|2|074|Geodude||21|None|075|Graveler||21|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||420|3|039|Jigglypuff||21|None|016|Pidgey||21|None|052|Meowth||21|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Hiker.png‎|Hiker||735|3|074|Geodude||21|None|074|Geodude||21|None|075|Graveler||21|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG PokéManiac.png‎|PokéManiac||1000|3|079|Slowpoke||20|None|079|Slowpoke||20|None|079|Slowpoke||20|None|079|Slowpoke||20|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||440|2|069|Bellsprout||22|None|035|Clefairy||22|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||380|4|016|Pidgey||19|None|019|Rattata||19|None|019|Rattata||19|None|069|Bellsprout||19|None|}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||400|3|052|Meowth||20|None|043|Oddish||20|None|016|Pidgey||20|None|}}
+{{Trainerfooter|cave|1}}===Generation I===
+{{trainerheader|land}}
+{{Trainerdiv|land|East to West}}
+{{Trainerentry|Spr RG Lass.png|Lass||330|2|035|Clefairy||22||035|Clefairy||22}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1680|2|058|Growlithe||24||037|Vulpix||24}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||550|3|088|Grimer||22||089|Muk||22||088|Grimer||22}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Lass.png|Lass||345|2|029|Nidoran♀||23||030|Nidorina||23}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||650|1|109|Koffing||26}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Lass.png|Lass||360|3|052|Meowth||24||052|Meowth||24||052|Meowth||24}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Lass.png|Lass|{{sup/1|RB}}|285|5|016|Pidgey||19||019|Rattata||19||032|Nidoran♂||19||052|Meowth||19||025|Pikachu||19}}
+{{Trainerentry|Spr Y Lass.png|Lass|{{sup/1|Y}}|285|5|016|Pidgey||19||019|Rattata||19||029|Nidoran♀||19||052|Meowth||19||032|Nidoran♂||19}}
+{{Trainerdiv|land}}
+{{Trainerentry|Spr RG Gambler.png|Gambler||1540|3|060|Poliwag||22||060|Poliwag||22||061|Poliwhirl||22}}
+{{trainerdiv|land}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||500|4|100|Voltorb||20||109|Koffing||20||100|Voltorb||20||081|Magnemite||20}}
+{{trainerfooter|land|I}}===Generation I===
+====B1F====
+{{Trainerheader|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||630|2|096|Drowzee||21|None|066|Machop||21|None|}}
+{{Trainerdiv|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||630|2|020|Raticate||21|None|020|Raticate||21|None|}}
+{{Trainerdiv|building}}
+{{Trainerentry|Spr RG Rocket.png|Rocket||600|3|088|Grimer||20|None|109|Koffing||20|None|109|Koffing||20|None|}}
+{{Trainerdiv|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||570|4|019|Rattata||19|None|020|Raticate||19|None|020|Raticate||19|None|019|Rattata||19|None|}}
+{{Trainerdiv|building|Requires Lift Key}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||660|2|088|Grimer||22|None|109|Koffing||22|None|}}
+{{Trainerfooter|building|1}}
+
+====B2F====
+{{Trainerheader|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||510|5|041|Zubat||17|None|109|Koffing||17|None|088|Grimer||17|None|041|Zubat||17|None|020|Raticate||17|None|}}
+{{Trainerfooter|building|1}}
+
+====B3F====
+{{Trainerheader|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||630|2|066|Machop||21|None|066|Machop||21|None|}}
+{{Trainerdiv|building}}
+{{Trainerentry|Spr RG Rocket.png|Rocket||600|3|019|Rattata||20|None|020|Raticate||20|None|096|Drowzee||20|None|}}
+{{Trainerfooter|building|1}}
+
+====B4F====
+{{Trainerheader|building}}
+{{Trainerentry|Spr RG Rocket.png‎|Rocket||630|2|109|Koffing||21|None|041|Zubat||21|None|}}
+{{Trainerdiv|building|Requires Lift Key}}
+{{Trainerentry|Spr RG Rocket.png|Rocket|{{sup/1|RB}}|690|3|027|Sandshrew||23|None|023|Ekans||23|None|028|Sandslash||23|None|}}
+{{Trainerdiv|building}}
+{{Trainerentry|Spr RG Rocket.png|Rocket|{{sup/1|RB}}|690|3|023|Ekans||23|None|027|Sandshrew||23|None|024|Arbok||23|None|}}
+{{Trainerfooter|building|1}}
+
+====={{game|Red and Blue|s}}=====
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr RG Giovanni.png
+|prize={{PDollar}}2871
+<!--GEN I HAD NO CLASSES-->
+|name={{color2|000|Giovanni}}
+|game=RGB
+|location=Team Rocket Hideout
+|locationname=Rocket Hideout
+|pokemon=3}}
+|{{Pokémon/1
+|game=Red and Blue
+|ndex=095
+|pokemon=Onix
+|level=25
+|type1=Rock|type2=Ground
+|move1=Screech|move1type=Normal
+|move2=Bind|move2type=Normal
+|move3=Rock Throw|move3type=Rock
+|move4=Rage|move4type=Normal}}
+|{{Pokémon/1
+|game=Red and Blue
+|ndex=111
+|pokemon=Rhyhorn
+|level=24
+|type1=Ground|type2=Rock
+|move1=Horn Attack|move1type=Normal}}
+|{{Pokémon/1
+|game=Red and Blue
+|ndex=115
+|pokemon=Kangaskhan
+|level=29
+|type1=Normal
+|move1=Comet Punch|move1type=Normal
+|move2=Rage|move2type=Normal
+|move3=Bite|move3type=Normal}}
+{{Party/Footer}}
+
+====={{game|Yellow}}=====
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr Y Jessie James.png
+|prize={{PDollar}}750
+|name={{color2|000|Team Rocket trio|Rocket}}
+|game=Y
+|location=Team Rocket Hideout
+|locationname=Rocket Hideout
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=109
+|pokemon=Koffing
+|level=25
+|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=052
+|pokemon=Meowth
+|level=25
+|type1=Normal
+|move1=Growl|move1type=Normal
+|move2=Bite|move2type=Normal
+|move3=Pay Day|move3type=Normal
+|move4=Screech|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=023
+|pokemon=Ekans
+|level=25
+|type1=Poison
+|move1=Bite|move1type=Normal
+|move2=Leer|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Glare|move4type=Normal}}
+{{Party/Footer}}
+
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr Y Giovanni.png
+|prize={{PDollar}}2871
+<!--GEN I HAD NO CLASSES-->
+|name={{color2|000|Giovanni}}
+|game=Y
+|location=Team Rocket Hideout
+|locationname=Rocket Hideout
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=095
+|pokemon=Onix
+|level=25
+|type1=Rock|type2=Ground
+|move1=Rock Throw|move1type=Rock
+|move2=Bind|move2type=Normal
+|move3=Rage|move3type=Normal
+|move4=Screech|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=111
+|pokemon=Rhyhorn
+|level=24
+|type1=Ground|type2=Rock
+|move1=Horn Attack|move1type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=053
+|pokemon=Persian
+|level=29
+|type1=Normal
+|move1=Pay Day|move1type=Normal
+|move2=Screech|move2type=Normal
+|move3=Bite|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}====={{game2|Red|Blue|Yellow}}=====
+{{Trainerheader|Grass}}
+{{Trainerentry|Spr RG Lass.png|Lass||345|2|069|Bellsprout||23|None|070|Weepinbell||23|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||1470|4|043|Oddish||21|None|069|Bellsprout||21|None|043|Oddish||21|None|069|Bellsprout||21|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||1680|2|069|Bellsprout||24|None|069|Bellsprout||24|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||480|2|001|Bulbasaur||24|None|002|Ivysaur||24|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||1820|1|102|Exeggcute||26|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Cooltrainer F.png|Cooltrainer||840|3|070|Weepinbell||24|None|044|Gloom||24|None|002|Ivysaur||24|None}}
+{{Trainerdiv|Grass}}
+{{Trainerentry|Spr RG Lass.png|Lass||345|2|043|Oddish||23|None|044|Gloom||23|None}}
+{{Trainerfooter|Grass|1|inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{grass color}}
+|headcolor={{grass color light}}
+|bordercolor={{grass color dark}}
+|sprite=Spr RG Erika.png
+|prize={{pdollar}}2871
+|name={{color2|000|Erika}}
+|game=RGB
+|location=Celadon Gym
+|pokemon=3}}
+|{{Pokémon/1
+|game=Red
+|ndex=071
+|pokemon=Victreebel
+|level=29
+|type1=Grass|type2=Poison
+|move1=Razor Leaf|move1type=Grass
+|move2=Wrap|move2type=Normal
+|move3=PoisonPowder|move3type=Poison
+|move4=Sleep Powder|move4type=Grass}}
+|{{Pokémon/1
+|game=Red
+|ndex=114
+|pokemon=Tangela
+|level=24
+|type1=Grass
+|move1=Constrict|move1type=Normal
+|move2=Bind|move2type=Normal}}
+|{{Pokémon/1
+|game=Red
+|ndex=045
+|pokemon=Vileplume
+|level=29
+|type1=Grass|type2=Poison
+|move1=Petal Dance|move1type=Grass
+|move2=PoisonPowder|move2type=Poison
+|move3=Mega Drain|move3type=Grass
+|move4=Sleep Powder|move4type=Grass}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{grass color}}
+|headcolor={{grass color light}}
+|bordercolor={{grass color dark}}
+|sprite=Spr Y Erika.png‎
+|prize={{pdollar}}3168
+|name={{color2|000|Erika}}
+|game=Y
+|location=Celadon Gym
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=114
+|pokemon=Tangela
+|level=30
+|type1=Grass
+|move1=Bind|move1type=Normal
+|move2=Mega Drain|move2type=Grass
+|move3=Vine Whip|move3type=Grass
+|move4=Constrict|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=070
+|pokemon=Weepinbell
+|level=32
+|type1=Grass|type2=Poison
+|move1=Acid|move1type=Poison
+|move2=Stun Spore|move2type=Grass
+|move3=Sleep Powder|move3type=Grass
+|move4=Razor Leaf|move4type=Grass}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=044
+|pokemon=Gloom
+|level=32
+|type1=Grass|type2=Poison
+|move1=Acid|move1type=Poison
+|move2=Petal Dance|move2type=Grass
+|move3=Stun Spore|move3type=Grass
+|move4=Sleep Powder|move4type=Grass}}
+{{Party/Footer}}====Generation I====
+=====2F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||750|5|042|Golbat||25||041|Zubat||25||041|Zubat||25||020|Raticate||25||041|Zubat||25||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1400|3|081|Magnemite||28||100|Voltorb||28||082|Magneton||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||870|2|104|Cubone||29||041|Zubat||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1300|4|088|Grimer||26||110|Weezing||26||109|Koffing||26||110|Weezing||26||}}
+{{trainerfooter|building|1}}
+
+=====3F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|020|Raticate||28||097|Hypno||28||020|Raticate||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1450|2|101|Electrode||29||110|Weezing||29||}}
+{{trainerfooter|building|1}}
+
+=====4F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|023|Ekans||28||041|Zubat||28||104|Cubone||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||870|2|066|Machop||29||096|Drowzee||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1650|1|101|Electrode||33||}}
+{{trainerfooter|building|1}}
+
+=====5F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||1015|1|097|Hypno||33| |}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Juggler.png|Juggler||1160|2|064|Kadabra||29| |122|Mr. Mime||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1450|4|082|Magneton||26||109|Koffing||26||110|Weezing||26||081|Magnemite||26||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||990|1|024|Arbok||33||}}
+{{trainerfooter|building|1}}
+
+=====6F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||870|2|066|Machop||29||067|Machoke||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|041|Zubat||28||041|Zubat||28||042|Golbat||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1250|5|100|Voltorb||25||109|Koffing||25||082|Magneton||25||081|Magnemite||25||109|Koffing||25||}}
+{{trainerfooter|building|1}}
+
+=====7F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||870|2|104|Cubone||29||104|Cubone||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||780|4|020|Raticate||26||024|Arbok||26||109|Koffing||26||042|Golbat||26||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1450|2|101|Electrode||29||089|Muk||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|2|027|Sandshrew||29||028|Sandslash||29||}}
+{{trainerfooter|building|1}}
+
+======{{game|Red and Blue|s}}======
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=018
+|pokemon=Pidgeot
+|level=37
+|type1=Normal|type2=Flying
+|move1=Wing Attack|move1type=Flying
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=102
+|pokemon=Exeggcute
+|level=38
+|type1=Grass|type2=Psychic
+|move1=Reflect|move1type=Psychic
+|move2=PoisonPowder|move2type=Poison
+|move3=Leech Seed|move3type=Grass
+|move4=Stun Spore|move4type=Grass}}
+|{{Pokémon/1
+|game=Blue
+|ndex=130
+|pokemon=Gyarados
+|level=35
+|type1=Water|type2=Flying
+|move1=Dragon Rage|move1type=Dragon
+|move2=Hydro Pump|move2type=Water
+|move3=Bite|move3type=Normal
+|move4=Leer|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=065
+|pokemon=Alakazam
+|level=35
+|type1=Psychic
+|move1=Psybeam|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=006
+|pokemon=Charizard
+|level=40
+|type1=Fire|type2=Flying
+|move1=Slash|move1type=Normal
+|move2=Ember|move2type=Fire
+|move3=Leer|move3type=Normal
+|move4=Rage|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=018
+|pokemon=Pidgeot
+|level=37
+|type1=Normal|type2=Flying
+|move1=Wing Attack|move1type=Flying
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=058
+|pokemon=Growlithe
+|level=38
+|type1=Fire
+|move1=Roar|move1type=Normal
+|move2=Ember|move2type=Fire
+|move3=Leer|move3type=Normal
+|move4=Take Down|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=102
+|pokemon=Exeggcute
+|level=35
+|type1=Grass|type2=Psychic
+|move1=Hypnosis|move1type=Psychic
+|move2=Reflect|move2type=Psychic
+|move3=Leech Seed|move3type=Grass
+|move4=Stun Spore|move4type=Grass}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=065
+|pokemon=Alakazam
+|level=35
+|type1=Psychic
+|move1=Psybeam|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=009
+|pokemon=Blastoise
+|level=40
+|type1=Water
+|move1=Bubble|move1type=Water
+|move2=Water Gun|move2type=Water
+|move3=Bite|move3type=Normal
+|move4=Withdraw|move4type=Water}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=018
+|pokemon=Pidgeot
+|level=37
+|type1=Normal|type2=Flying
+|move1=Wing Attack|move1type=Flying
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=130
+|pokemon=Gyarados
+|level=38
+|type1=Water|type2=Flying
+|move1=Dragon Rage|move1type=Dragon
+|move2=Hydro Pump|move2type=Water
+|move3=Bite|move3type=Normal
+|move4=Leer|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=058
+|pokemon=Growlithe
+|level=35
+|type1=Fire
+|move1=Roar|move1type=Normal
+|move2=Ember|move2type=Fire
+|move3=Leer|move3type=Normal
+|move4=Take Down|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=065
+|pokemon=Alakazam
+|level=35
+|type1=Psychic
+|move1=Psybeam|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Blue
+|ndex=003
+|pokemon=Venusaur
+|level=40
+|type1=Grass|type2=Poison
+|move1=Leech Seed|move1type=Grass
+|move2=Vine Whip|move2type=Grass
+|move3=PoisonPowder|move3type=Poison
+|move4=Razor Leaf|move4type=Grass}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{MSP|134|Vaporeon}} If {{p|Eevee}} evolved into {{p|Vaporeon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=028
+|pokemon=Sandslash
+|level=38
+|type1=Ground
+|move1=Slash|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Swift|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=082
+|pokemon=Magneton
+|level=35
+|type1=Electric
+|move1=Tackle|move1type=Normal
+|move2=SonicBoom|move2type=Normal
+|move3=ThunderShock|move3type=Electric
+|move4=Supersonic|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=038
+|pokemon=Ninetales
+|level=37
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Roar|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|
+{{Pokémon/1
+|game=Yellow
+|ndex=064
+|pokemon=Kadabra
+|level=35
+|type1=Psychic
+|move1=Confusion|move1type=Psychic
+|move2=Disable|move2type=Normal
+|move3=Psybeam|move3type=Psychic
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Yellow
+|ndex=134
+|pokemon=Vaporeon
+|level=40
+|type1=Water
+|move1=Water Gun|move1type=Water
+|move2=Quick Attack|move2type=Normal
+|move3=Bite|move3type=Normal
+|move4=Aurora Beam|move4type=Ice}}
+{{Party/Footer}}
+
+{{MSP|135|Jolteon}} If {{p|Eevee}} evolved into {{p|Jolteon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=028
+|pokemon=Sandslash
+|level=38
+|type1=Ground
+|move1=Slash|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Swift|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=038
+|pokemon=Ninetales
+|level=35
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Roar|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=091
+|pokemon=Cloyster
+|level=37
+|type1=Water|type2=Ice
+|move1=Withdraw|move1type=Water
+|move2=Supersonic|move2type=Normal
+|move3=Clamp|move3type=Water
+|move4=Aurora Beam|move4type=Ice}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|
+{{Pokémon/1
+|game=Yellow
+|ndex=064
+|pokemon=Kadabra
+|level=35
+|type1=Psychic
+|move1=Confusion|move1type=Psychic
+|move2=Disable|move2type=Normal
+|move3=Psybeam|move3type=Psychic
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Yellow
+|ndex=135
+|pokemon=Jolteon
+|level=40
+|type1=Electric
+|move1=ThunderShock|move1type=Electric
+|move2=Quick Attack|move2type=Normal
+|move3=Double Kick|move3type=Fighting
+|move4=Pin Missile|move4type=Bug}}
+{{Party/Footer}}
+
+{{MSP|136|Flareon}} If {{p|Eevee}} evolved into {{p|Flareon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{pdollar}}2600
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Silph Co.
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=028
+|pokemon=Sandslash
+|level=38
+|type1=Ground
+|move1=Slash|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Swift|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=091
+|pokemon=Cloyster
+|level=35
+|type1=Water|type2=Ice
+|move1=Withdraw|move1type=Water
+|move2=Supersonic|move2type=Normal
+|move3=Clamp|move3type=Water
+|move4=Aurora Beam|move4type=Ice}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=082
+|pokemon=Magneton
+|level=37
+|type1=Electric
+|move1=Tackle|move1type=Normal
+|move2=SonicBoom|move2type=Normal
+|move3=ThunderShock|move3type=Electric
+|move4=Supersonic|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+|style="margin:auto"|{{Pokémon/1
+|game=Yellow
+|ndex=064
+|pokemon=Kadabra
+|level=35
+|type1=Psychic
+|move1=Confusion|move1type=Psychic
+|move2=Disable|move2type=Normal
+|move3=Psybeam|move3type=Psychic
+|move4=Recover|move4type=Normal}}
+|style="margin:auto"|{{Pokémon/1
+|game=Yellow
+|ndex=136
+|pokemon=Flareon
+|level=40
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Sand-Attack|move2type=Normal
+|move3=Bite|move3type=Normal
+|move4=Fire Spin|move4type=Fire}}
+{{Party/Footer}}
+
+=====8F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||780|4|020|Raticate||26||041|Zubat||26||042|Golbat||26||019|Rattata||26||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|110|Weezing||28||042|Golbat||28||109|Koffing||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1450|2|088|Grimer||29||101|Electrode||29||}}
+{{trainerfooter|building|1}}
+
+=====9F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|042|Golbat||28||096|Drowzee||28||097|Hypno||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|3|096|Drowzee||28||088|Grimer||28||066|Machop||28||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1400|3|100|Voltorb||28||109|Koffing||28||082|Magneton||28||}}
+{{trainerfooter|building|1}}
+
+=====10F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1450|2|081|Magnemite||29||109|Koffing||29||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||840|1|067|Machoke||33||}}
+{{trainerfooter|building|1}}
+
+=====11F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||750|5|019|Rattata||25||019|Rattata||25||041|Zubat||25||019|Rattata||25||023|Ekans||25||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket|{{sup/1|RB}}|960|3|104|Cubone||32||096|Drowzee||32||105|Marowak||32||}}
+{{trainerfooter|building|1}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr RG Giovanni.png
+|prize={{pdollar}}4059
+|name={{color2|000|Giovanni}}
+|game=RGB
+|location=Silph Co.
+|pokemon=4}}
+|{{Pokémon/1
+|game=Red
+|ndex=033
+|pokemon=Nidorino
+|level=37
+|type1=Poison
+|move1=Horn Attack|move1type=Normal
+|move2=Poison Sting|move2type=Poison
+|move3=Focus Energy|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Red
+|ndex=115
+|pokemon=Kangaskhan
+|level=35
+|type1=Normal
+|move1=Comet Punch|move1type=Normal
+|move2=Rage|move2type=Normal
+|move3=Bite|move3type=Normal
+|move4=Tail Whip|move4type=Normal}}
+{{Party/Div|color=666666}}
+|{{Pokémon/1
+|game=Red
+|ndex=111
+|pokemon=Rhyhorn
+|level=37
+|type1=Ground|type2=Rock
+|move1=Horn Attack|move1type=Normal
+|move2=Stomp|move2type=Normal
+|move3=Tail Whip|move3type=Normal}}
+|{{Pokémon/1
+|game=Red
+|ndex=031
+|pokemon=Nidoqueen
+|level=41|type1=Poison|type2=Ground
+|move1=Scratch|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Body Slam|move3type=Normal
+|move4=Poison Sting|move4type=Poison}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr Y Jessie James.png
+|prize={{Pdollar}}930
+|name={{color2|000|Team Rocket trio|Rocket}}
+|game=Y
+|location=Silph Co.
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=110
+|pokemon=Weezing
+|level=31
+|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison
+|move3=Sludge|move3type=Poison}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=024
+|pokemon=Arbok
+|level=31
+|type1=Poison
+|move1=Bite|move1type=Normal
+|move2=Leer|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Glare|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=052
+|pokemon=Meowth
+|level=31|type1=Normal
+|move1=Growl|move1type=Normal
+|move2=Bite|move2type=Normal
+|move3=Pay Day|move3type=Normal
+|move4=Screech|move4type=Normal}}
+{{Party/Footer}}
+
+{{Party/Single
+|color=666666
+|bordercolor=CC0000
+|headcolor=CCCCCC
+|sprite=Spr Y Giovanni.png‎|prize={{pdollar}}4059
+|name={{color2|000|Giovanni}}
+|game=Y
+|location=Silph Co.
+|pokemon=4}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=033
+|pokemon=Nidorino
+|level=37
+|type1=Poison
+|move1=Double Kick|move1type=Fighting
+|move2=Poison Sting|move2type=Poison
+|move3=Focus Energy|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=111
+|pokemon=Rhyhorn
+|level=37|type1=Ground|type2=Rock
+|move1=Horn Attack|move1type=Normal
+|move2=Stomp|move2type=Normal
+|move3=Tail Whip|move3type=Normal}}
+{{Party/Div|color=666666}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=053
+|pokemon=Persian
+|level=35
+|type1=Normal
+|move1=Scratch|move1type=Normal
+|move2=Growl|move2type=Normal
+|move3=Bite|move3type=Normal
+|move4=Pay Day|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=031
+|pokemon=Nidoqueen
+|level=41
+|type1=Poison|type2=Ground
+|move1=Scratch|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Body Slam|move3type=Normal
+|move4=Double Kick|move4type=Fighting}}
+{{Party/Footer}}====Generation I====
+{{trainerheader|fighting}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||775|3|066|Machop||31|None|056|Mankey||31|None|057|Primeape||31|None}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||800|2|066|Machop||32|None|067|Machoke||32|None}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||900|1|057|Primeape||36|None}}
+{{trainerdiv|fighting}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||775|3|056|Mankey||31|None|056|Mankey||31|None|057|Primeape||31|None}}
+{{trainerfooter|fighting|I}}
+
+{{Party/Single
+|color={{fighting color}}
+|bordercolor={{fighting color dark}}
+|headcolor={{fighting color light}}
+|sprite=Spr RG Blackbelt.png
+|prize={{PDollar}}925
+|name={{color2|000|Kiyo|Blackbelt}}
+|game=RGBY
+|location=Fighting Dojo
+|pokemon=2}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=106
+|pokemon=Hitmonlee
+|level=37|type1=Fighting
+|move1=Double Kick|move1type=Fighting
+|move2=Meditate|move2type=Psychic
+|move3=Rolling Kick|move3type=Fighting
+|move4=Mega Kick|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=107
+|pokemon=Hitmonchan
+|level=37
+|type1=Fighting
+|move1=Comet Punch|move1type=Normal
+|move2=Agility|move2type=Psychic
+|move3=Fire Punch|move3type=Fire
+|move4=Mega Punch|move4type=Normal}}
+{{Party/Footer}}====={{game2|Red|Blue|Yellow}}=====
+{{Trainerheader|Psychic}}
+{{trainerdiv|Psychic|Southeast room}}
+{{Trainerentry|Spr RG Psychic.png|Psychic||330|3|079|Slowpoke||33|None|079|Slowpoke||33|None|080|Slowbro||33|None|}}
+{{trainerdiv|Psychic|East room}}
+{{Trainerentry|Spr RG Psychic.png|Psychic||340|2|122|Mr. Mime||34|None|064|Kadabra||34|None|}}
+{{trainerdiv|Psychic|West room}}
+{{Trainerentry|Spr RG Channeler.png|Channeler||1140|1|093|Haunter||38|None|}}
+{{trainerdiv|Psychic|Northwest room}}
+{{Trainerentry|Spr RG Psychic.png|Psychic||380|1|080|Slowbro||38|None|}}
+{{trainerdiv|Psychic|North room}}
+{{Trainerentry|Spr RG Channeler.png|Channeler||1020|2|092|Gastly||34|None|093|Haunter||34|None|}}
+{{Trainerdiv|Psychic|Southwest room}}
+{{Trainerentry|Spr RG Channeler.png|Channeler||990|3|092|Gastly||33|None|092|Gastly||33|None|093|Haunter||33|None|}}
+{{Trainerdiv|Psychic|Northeast room}}
+{{Trainerentry|Spr RG Psychic.png|Psychic||310|4|064|Kadabra||31|None|079|Slowpoke||31|None|122|Mr. Mime||31|None|064|Kadabra||31|None|}}
+{{Trainerfooter|Psychic|1|inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{psychic color}}
+|bordercolor={{psychic color dark}}
+|headcolor={{psychic color light}}
+|sprite=Spr RG Sabrina.png
+|prize={{pdollar}}4257
+|name={{color2|000|Sabrina}}
+|game=RGB|
+|location=Saffron Gym
+|pokemon=4}}
+|{{Pokémon/1
+|game=Red
+|ndex=064
+|pokemon=Kadabra
+|level=38
+|type1=Psychic
+|move1=Disable|move1type=Normal
+|move2=Psybeam|move2type=Psychic
+|move3=Recover|move3type=Normal
+|move4=Psychic|move4type=Psychic}}
+|{{Pokémon/1
+|game=Red
+|ndex=122
+|pokemon=Mr. Mime
+|level=37
+|type1=Psychic
+|move1=Confusion|move1type=Psychic
+|move2=Barrier|move2type=Psychic
+|move3=Light Screen|move3type=Psychic
+|move4=DoubleSlap|move4type=Normal}}
+{{Party/Div|color={{psychic color}}}}
+|{{Pokémon/1
+|game=Red
+|ndex=049
+|pokemon=Venomoth
+|level=38
+|type1=Bug|type2=Poison
+|move1=PoisonPowder|move1type=Poison
+|move2=Leech Life|move2type=Bug
+|move3=Stun Spore|move3type=Grass
+|move4=Psybeam|move4type=Psychic}}
+|{{Pokémon/1
+|game=Red
+|ndex=065
+|pokemon=Alakazam
+|level=43
+|type1=Psychic
+|move1=Psybeam|move1type=Psychic
+|move2=Recover|move2type=Normal
+|move3=Psywave|move3type=Psychic
+|move4=Reflect|move4type=Psychic}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{psychic color}}
+|bordercolor={{psychic color dark}}
+|headcolor={{psychic color light}}
+|sprite=Spr Y_Sabrina.png
+|prize={{pdollar}}4950
+|name={{color2|000|Sabrina}}
+|game=Y|
+|location=Saffron Gym
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=063
+|pokemon=Abra
+|level=50
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Flash|move2type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=064
+|pokemon=Kadabra
+|level=50
+|type1=Psychic
+|move1=Psychic|move1type=Psychic
+|move2=Recover|move2type=Normal
+|move3=Kinesis|move3type=Psychic
+|move4=Psywave|move4type=Psychic}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=065
+|pokemon=Alakazam
+|level=50
+|type1=Psychic
+|move1=Psychic|move1type=Psychic
+|move2=Psywave|move2type=Psychic
+|move3=Reflect|move3type=Psychic
+|move4=Recover|move4type=Normal}}
+{{Party/Footer}}====Generation I====
+=====2F=====
+======{{game|Red and Blue|s}}======
+{{MSP|001|Bulbasaur}} If the {{player}} chose {{p|Bulbasaur}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=25
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=102
+|pokemon=Exeggcute
+|level=23
+|type1=Grass|type2=Psychic
+|move1=Barrage|move1type=Normal
+|move2=Hypnosis|move2type=Psychic}}
+|{{Pokémon/1
+|game=Blue
+|ndex=130
+|pokemon=Gyarados
+|level=22
+|type1=Water|type2=Flying
+|move1=Leer|move1type=Normal
+|move2=Dragon Rage|move2type=Dragon
+|move3=Bite|move3type=Normal
+|move4=Hydro Pump|move4type=Water}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=20
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=005
+|pokemon=Charmeleon
+|level=25
+|type1=Fire
+|move1=Growl|move1type=Normal
+|move2=Ember|move2type=Fire
+|move3=Leer|move3type=Normal
+|move4=Rage|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|004|Charmander}} If the {{player}} chose {{p|Charmander}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=25
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=058
+|pokemon=Growlithe
+|level=23
+|type1=Fire
+|move1=Bite|move1type=Normal
+|move2=Roar|move2type=Normal
+|move3=Ember|move3type=Fire}}
+|{{Pokémon/1
+|game=Blue
+|ndex=102
+|pokemon=Exeggcute
+|level=22
+|type1=Grass|type2=Psychic
+|move1=Barrage|move1type=Normal
+|move2=Hypnosis|move2type=Psychic}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=20
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=008
+|pokemon=Wartortle
+|level=25
+|type1=Water
+|move1=Tail Whip|move1type=Normal
+|move2=Bubble|move2type=Water
+|move3=Water Gun|move3type=Water
+|move4=Bite|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|007|Squirtle}} If the {{player}} chose {{p|Squirtle}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr RG Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=RGB
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=017
+|pokemon=Pidgeotto
+|level=25
+|type1=Normal|type2=Flying
+|move1=Gust|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Whirlwind|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=130
+|pokemon=Gyarados
+|level=23
+|type1=Water
+|type2=Flying
+|move1=Leer|move1type=Normal
+|move2=Dragon Rage|move2type=Dragon
+|move3=Bite|move3type=Normal
+|move4=Hydro Pump|move4type=Water}}
+|{{Pokémon/1
+|game=Blue
+|ndex=058
+|pokemon=Growlithe
+|level=22
+|type1=Fire
+|move1=Bite|move1type=Normal
+|move2=Roar|move2type=Normal
+|move3=Ember|move3type=Fire}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=064
+|pokemon=Kadabra
+|level=20
+|type1=Psychic
+|move1=Teleport|move1type=Psychic
+|move2=Confusion|move2type=Psychic
+|move3=Disable|move3type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=002
+|pokemon=Ivysaur
+|level=25
+|type1=Grass|type2=Poison
+|move1=Growl|move1type=Normal
+|move2=Leech Seed|move2type=Grass
+|move3=Vine Whip|move3type=Grass
+|move4=PoisonPowder|move4type=Poison}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{MSP|134|Vaporeon}} If {{p|Eevee}} will evolve into {{p|Vaporeon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=022
+|pokemon=Fearow
+|level=25
+|type1=Normal|type2=Flying
+|move1=Mirror Move|move1type=Flying
+|move2=Growl|move2type=Normal
+|move3=Leer|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=027
+|pokemon=Sandshrew
+|level=20
+|type1=Ground
+|move1=Scratch|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Slash|move3type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=037
+|pokemon=Vulpix
+|level=23
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Roar|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=081
+|pokemon=Magnemite
+|level=22
+|type1=Electric
+|move1=Tackle|move1type=Normal
+|move2=SonicBoom|move2type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=133
+|pokemon=Eevee
+|level=25
+|type1=Normal
+|move1=Quick Attack|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Sand-Attack|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|135|Jolteon}} If {{p|Eevee}} will evolve into {{p|Jolteon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=022
+|pokemon=Fearow
+|level=25
+|type1=Normal|type2=Flying
+|move1=Mirror Move|move1type=Flying
+|move2=Growl|move2type=Normal
+|move3=Leer|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=090
+|pokemon=Shellder
+|level=23
+|type1=Water
+|move1=Tackle|move1type=Normal
+|move2=Withdraw|move2type=Water
+|move3=Supersonic|move3type=Normal
+|move4=Clamp|move4type=Water}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=037
+|pokemon=Vulpix
+|level=22
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Tail Whip|move2type=Normal
+|move3=Quick Attack|move3type=Normal
+|move4=Roar|move4type=Normal}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=027
+|pokemon=Sandshrew
+|level=20
+|type1=Ground
+|move1=Scratch|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Slash|move3type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=133
+|pokemon=Eevee
+|level=25
+|type1=Normal
+|move1=Quick Attack|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Sand-Attack|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}
+
+{{MSP|136|Flareon}} If {{p|Eevee}} will evolve into {{p|Flareon}}:
+{{Party/Single
+|color={{blue color}}
+|headcolor={{blue color light}}
+|bordercolor={{green color dark}}
+|sprite=Spr Y Blue 2.png
+|prize={{PDollar}}1625
+|name={{color2|000|Blue (game)|Blue}}
+|game=Y
+|location=Pokémon Tower
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=022
+|pokemon=Fearow
+|level=25
+|type1=Normal|type2=Flying
+|move1=Mirror Move|move1type=Flying
+|move2=Growl|move2type=Normal
+|move3=Leer|move3type=Normal
+|move4=Fury Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=027
+|pokemon=Sandshrew
+|level=20
+|type1=Ground
+|move1=Scratch|move1type=Normal
+|move2=Sand-Attack|move2type=Normal
+|move3=Slash|move3type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=081
+|pokemon=Magnemite
+|level=23
+|type1=Electric
+|move1=Tackle
+|move1type=Normal
+|move2=SonicBoom
+|move2type=Normal}}
+{{Party/Div|color={{blue color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=090
+|pokemon=Shellder
+|level=22
+|type1=Water
+|move1=Tackle|move1type=Normal
+|move2=Withdraw|move2type=Water
+|move3=Supersonic|move3type=Normal
+|move4=Clamp|move4type=Water}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=133
+|pokemon=Eevee
+|level=25
+|type1=Normal
+|move1=Quick Attack|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Sand-Attack|move3type=Normal
+|move4=Growl|move4type=Normal}}
+{{Party/Footer}}
+
+=====3F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||690|1|092|Gastly||23|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||660|1|092|Gastly||22|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||720|1|092|Gastly||24|||}}
+{{trainerfooter|building|1}}
+
+=====4F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||690|2|092|Gastly||23||092|Gastly||23|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||660|1|092|Gastly||22|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||720|1|092|Gastly||24|||}}
+{{trainerfooter|building|1}}
+
+=====5F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||660|1|092|Gastly||22|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||690|1|093|Haunter||23|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||720|1|092|Gastly||24|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||660|1|093|Haunter||22|||}}
+{{trainerfooter|building|1}}
+
+=====6F=====
+{{trainerheader|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||660|3|092|Gastly||22||092|Gastly||22||092|Gastly||22|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||720|1|092|Gastly||24|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Channeler.png|Channeler||720|1|092|Gastly||24|||}}
+{{trainerfooter|building|1}}
+
+=====7F=====
+======{{game|Red and Blue|s}}======
+{{trainerheader|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||750|3|041|Zubat||25||041|Zubat||25||042|Golbat||25|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||780|2|109|Koffing||26||096|Drowzee||26|||}}
+{{trainerdiv|building}}
+{{trainerentry|Spr RG Rocket.png|Rocket||690|4|041|Zubat||23||019|Rattata||23||020|Raticate||23||041|Zubat||23|||}}
+{{trainerfooter|building|1}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color=666
+|bordercolor=C00
+|headcolor=CCC
+|sprite=Spr Y Jessie James.png
+|prize={{PDollar}}810
+|name={{color2|000|Team Rocket trio|Rocket}}
+|game=Y
+|location=Pokémon Tower
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=052
+|pokemon=Meowth
+|level=27
+|type1=Normal
+|move1=Growl|move1type=Normal
+|move2=Bite|move2type=Normal
+|move3=Screech|move3type=Normal
+|move4=Pay Day|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=024
+|pokemon=Arbok
+|level=27
+|type1=Poison
+|move1=Bite|move1type=Normal
+|move2=Leer|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Glare|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=110
+|pokemon=Weezing
+|level=27
+|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison
+|move3=Sludge|move3type=Poison}}
+{{Party/Footer}}===Generation I===
+{{trainerheader|road}}
+{{trainerentry|Spr RG Cue Ball.png|Cue Ball||725|2|066|Machop||29||067|Machoke||29|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Cue Ball.png|Cue Ball||725|2|056|Mankey||29||057|Primeape||29|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Biker.png|Biker||560|3|110|Weezing||28||109|Koffing||28||110|Weezing||28|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Biker.png|Biker||660|1|089|Muk||33|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Biker.png|Biker||580|2|100|Voltorb||29||100|Voltorb||29|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Cue Ball.png|Cue Ball||825|1|067|Machoke||33|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Cue Ball.png|Cue Ball||725|2|057|Primeape||29||067|Machoke||29|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Cue Ball.png|Cue Ball||650|4|056|Mankey||26||056|Mankey||26||067|Machoke||26||066|Machop||26|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Biker.png|Biker||580|2|110|Weezing||29||089|Muk||29|}}
+{{trainerdiv|road}}
+{{trainerentry|Spr RG Biker.png|Biker||500|5|109|Koffing||25||110|Weezing||25||109|Koffing||25||109|Koffing||25||110|Weezing||25|}}
+{{trainerfooter|road|I}}===Generation I===
+{{trainerheader|road}}
+{{Trainerentry|Spr RG Bird Keeper.png|Bird Keeper||725|2|021|Spearow||29|None|022|Fearow||29|None|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr RG Bird Keeper.png|Bird Keeper||650|4|021|Spearow||26|None|021|Spearow||26|None|022|Fearow||26|None|021|Spearow||26|None|}}
+{{Trainerdiv|road}}
+{{Trainerentry|Spr RG Bird Keeper.png|Bird Keeper||850|1|085|Dodrio||34|None|}}
+{{trainerfooter|road|1}}====={{game2|Red|Blue|Yellow}}=====
+{{Trainerheader|Poison}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1190|2|096|Drowzee||34|None|064|Kadabra||34|None|}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1330|1|097|Hypno||38|None|}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1085|4|096|Drowzee||31|None|096|Drowzee||31|None|064|Kadabra||31|None|096|Drowzee||31|None|}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr RG Tamer.png|Tamer||1320|3|024|Arbok||33|None|028|Sandslash||33|None|024|Arbok||33|None|}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr RG Tamer.png|Tamer||1360|2|028|Sandslash||34|None|024|Arbok||34|None|}}
+{{Trainerdiv|Poison}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1190|2|096|Drowzee||34|None|097|Hypno||34|None|}}
+{{Trainerfooter|Poison|1|inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{poison color}}
+|headcolor={{poison color light}}
+|bordercolor={{poison color dark}}
+|sprite=Spr RG Koga.png
+|prize={{pdollar}}4257
+|name={{color2|000|Koga}}
+|game=RGB
+|location=Fuchsia Gym
+|pokemon=4}}
+|{{Pokémon/1
+|game=Red
+|ndex=109
+|pokemon=Koffing
+|level=37
+|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison
+|move3=Sludge|move3type=Poison
+|move4=SmokeScreen|move4type=Normal}}
+|{{Pokémon/1
+|game=Red
+|ndex=089
+|pokemon=Muk
+|level=39
+|type1=Poison
+|move1=Disable|move1type=Normal
+|move2=Poison Gas|move2type=Poison
+|move3=Minimize|move3type=Normal
+|move4=Sludge|move4type=Poison}}
+{{Party/Div|color={{poison color}}}}
+|{{Pokémon/1
+|game=Red
+|ndex=109
+|pokemon=Koffing
+|level=37
+|type1=Poison
+|move1=Tackle|move1type=Normal
+|move2=Smog|move2type=Poison
+|move3=Sludge|move3type=Poison
+|move4=SmokeScreen|move4type=Normal}}
+|{{Pokémon/1
+|game=Red
+|ndex=110
+|pokemon=Weezing
+|level=43
+|type1=Poison
+|move1=Smog|move1type=Poison
+|move2=Sludge|move2type=Poison
+|move3=Toxic|move3type=Poison
+|move4=Selfdestruct|move4type=Normal}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{poison color}}
+|headcolor={{poison color light}}
+|bordercolor={{poison color dark}}
+|sprite=Spr Y Koga.png‎
+|prize={{pdollar}}4950
+|name={{color2|000|Koga}}
+|game=Y
+|location=Fuchsia Gym
+|pokemon=4}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=048
+|pokemon=Venonat
+|level=44
+|type1=Bug|type2=Poison
+|move1=Tackle|move1type=Normal
+|move2=Toxic|move2type=Poison
+|move3=Sleep Powder|move3type=Grass
+|move4=Psychic|move4type=Psychic}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=048
+|pokemon=Venonat
+|level=46
+|type1=Bug|type2=Poison
+|move1=Toxic|move1type=Poison
+|move2=Psybeam|move2type=Psychic
+|move3=Supersonic|move3type=Normal
+|move4=Psychic|move4type=Psychic}}
+{{Party/Div|color={{poison color}}}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=048
+|pokemon=Venonat
+|level=48
+|type1=Bug|type2=Poison
+|move1=Toxic|move1type=Poison
+|move2=Psychic|move2type=Psychic
+|move3=Sleep Powder|move3type=Grass
+|move4=Double-Edge|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=049
+|pokemon=Venomoth
+|level=50
+|type1=Bug|type2=Poison
+|move1=Toxic|move1type=Poison
+|move2=Psychic|move2type=Psychic
+|move3=Leech Life|move3type=Bug
+|move4=Double Team|move4type=Normal}}
+{{Party/Footer}}===Generation I===
+Trainers are listed east to west.
+{{trainerheader}}
+{{trainerdiv|land|North path (requires Cut)}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||660|1|035|Clefairy||33|}}
+{{trainerdiv|land|South path}}
+{{trainerentry|Spr RG Beauty.png|Beauty||2030|2|017|Pidgeotto||29||040|Wigglytuff||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀|{{sup/1|RB}}|580|2|025|Pikachu||29||026|Raichu||29|}}
+{{trainerentry|Spr Y Jr Trainer F.png|Jr. Trainer♀|{{sup/1|Y}}|580|2|016|Pidgey||29||017|Pidgeotto||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||500|5|109|Koffing||25||109|Koffing||25||110|Weezing||25||109|Koffing||25||088|Grimer||25|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||560|3|109|Koffing||28||088|Grimer||28||110|Weezing||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Beauty.png|Beauty||2030|2|001|Bulbasaur||29||002|Ivysaur||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||560|3|044|Gloom||28||043|Oddish||28||043|Oddish||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||700|3|085|Dodrio||28||084|Doduo||28||084|Doduo||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||650|4|017|Pidgeotto||26||083|Farfetch'd||26||084|Doduo||26||016|Pidgey||26|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||580|3|069|Bellsprout||29||043|Oddish||29||114|Tangela||29|}}
+{{trainerfooter|land|I}}===Generation I===
+{{trainerheader}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||650|4|016|Pidgey||26||021|Spearow||26||016|Pidgey||26||022|Fearow||26|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||700|3|016|Pidgey||28||084|Doduo||28||017|Pidgeotto||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||725|2|017|Pidgeotto||29||022|Fearow||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||700|3|021|Spearow||28||084|Doduo||28||022|Fearow||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||580|2|109|Koffing||29||089|Muk||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||825|1|083|Farfetch'd||33|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||580|2|109|Koffing||29||088|Grimer||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||560|3|088|Grimer||28||088|Grimer||28||109|Koffing||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||520|4|109|Koffing||26||109|Koffing||26||088|Grimer||26||109|Koffing||26|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||725|2|021|Spearow||29||022|Fearow||29|}}
+{{trainerfooter|land|I}}===Generation I===
+{{trainerheader}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||560|3|118|Goldeen||28||060|Poliwag||28||116|Horsea||28|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||725|2|016|Pidgey||29||017|Pidgeotto||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀|{{sup/1|RB}}|480|5|016|Pidgey||24||052|Meowth||24||019|Rattata||24||025|Pikachu||24||052|Meowth||24|}}
+{{trainerentry|Spr Y Jr Trainer F.png|Jr. Trainer♀|{{sup/1|Y}}|480|5|016|Pidgey||24||052|Meowth||24||019|Rattata||24||016|Pidgey||24||052|Meowth||24|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Beauty.png|Beauty|{{sup/1|RB}}|1890|3|019|Rattata||27||025|Pikachu||27||019|Rattata||27|}}
+{{trainerentry|Spr Y Beauty.png|Beauty|{{sup/1|Y}}|1890|3|019|Rattata||27||037|Vulpix||27||019|Rattata||27|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Beauty.png|Beauty||2030|2|035|Clefairy||29||052|Meowth||29|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||600|2|060|Poliwag||30||060|Poliwag||30|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||540|4|016|Pidgey||27||052|Meowth||27||016|Pidgey||27||017|Pidgeotto||27|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||625|5|021|Spearow||25||016|Pidgey||25||016|Pidgey||25||021|Spearow||25||021|Spearow||25|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Bird Keeper.png|Bird Keeper||650|4|016|Pidgey||26||017|Pidgeotto||26||021|Spearow||26||022|Fearow||26|}}
+{{trainerdiv}}
+{{trainerentry|Spr RG Biker.png|Biker||560|3|109|Koffing||28||109|Koffing||28||109|Koffing||28|}}
+{{trainerfooter|land|I}}===Generation I===
+{{trainerheader|water}}
+{{Trainerdiv|water|North of Snorlax}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||770|3|118|Goldeen||22|None|060|Poliwag||22|None|118|Goldeen||22|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||840|2|072|Tentacool||24|None|118|Goldeen||24|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||945|1|118|Goldeen||27|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||735|4|060|Poliwag||21|None|090|Shellder||21|None|118|Goldeen||21|None|116|Horsea||21|None}}
+{{Trainerdiv|water|South of Snorlax}}
+{{Trainerentry|Spr RG Rocker.png|Rocker||725|2|100|Voltorb||29|None|101|Electrode||29|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RG Jr Trainer M.png|Jr. Trainer♂||840|2|032|Nidoran♂||29|None|033|Nidorino||29|None}}
+{{Trainerdiv|water}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||840<br><small>Requires {{m|Cut}}</small>|2|129|Magikarp||24|None|129|Magikarp||24|None}}
+{{trainerfooter|water|I}}===Generation I===
+{{Trainerheader|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||145|3|118|Goldeen||29||116|Horsea||29||120|Staryu||29|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||150|2|072|Tentacool||30||090|Shellder||30|||}}
+{{Trainerdiv|ocean|Requires Surf}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||150|2|116|Horsea||30||116|Horsea||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||150|2|060|Poliwag||30||061|Poliwhirl||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||135|4|116|Horsea||27||072|Tentacool||27||072|Tentacool||27||118|Goldeen||27|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||145|3|118|Goldeen||29||090|Shellder||29||119|Seaking||29|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||135|5|072|Tentacool||27||072|Tentacool||27||120|Staryu||27||116|Horsea||27||073|Tentacruel||27|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2100|2|118|Goldeen||30||119|Seaking||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||1890|5|060|Poliwag||27||118|Goldeen||27||119|Seaking||27||118|Goldeen||27||060|Poliwag||27|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2030|3|120|Staryu||29||120|Staryu||29||120|Staryu||29|||}}
+{{Trainerfooter|ocean|I}}===Generation I===
+The following Trainers are listed from '''east''' to '''west'''.
+{{trainerheader|ocean}}
+{{Trainerdiv|ocean|East of the islands}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||155|2|090|Shellder||31||091|Cloyster||31|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||140|4|116|Horsea||28||116|Horsea||28||117|Seadra||28||116|Horsea||28|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2100|3|117|Seadra||30||116|Horsea||30||117|Seadra||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2450|1|119|Seaking||35|||}}
+{{Trainerdiv|ocean|West of the islands}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||600|3|072|Tentacool||30||116|Horsea||30||086|Seel||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||175|1|120|Staryu||35|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Bird Keeper.png|Bird Keeper||750|3|022|Fearow||30||022|Fearow||30||017|Pidgeotto||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2100|3|090|Shellder||30||090|Shellder||30||091|Cloyster||30|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Jr Trainer F.png|Jr. Trainer♀||620|2|118|Goldeen||31||119|Seaking||31|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Beauty.png|Beauty||2170|2|060|Poliwag||31||119|Seaking||31|||}}
+{{Trainerfooter|ocean|I}}====Generation I====
+{{trainerheader|ruins}}
+{{trainerentry|Spr RG Burglar.png‎|Burglar||3060|2|004|Charmander||34|None|005|Charmeleon||34|None|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr RG Burglar.png|Burglar||3420|1|038|Ninetales||38|None|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1650|3|081|Magnemite||33|None|082|Magneton||33|None|100|Voltorb||33|None|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr RG Scientist.png‎|Scientist||1450|2|101|Electrode||29|None|110|Weezing||29|None|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr RG Burglar.png|Burglar||3060|2|058|Growlithe||34|None|077|Ponyta||34|None|}}
+{{trainerdiv|ruins}}
+{{trainerentry|Spr RG Scientist.png|Scientist||1700|2|081|Magnemite||34|None|101|Electrode||34|None|}}
+{{trainerfooter|ruins|1}}====={{game2|Red|Blue|Yellow}}=====
+{{Trainerheader|Fire}}
+{{Trainerentry|Spr RG Burglar.png‎|Burglar||3240|3|058|Growlithe||36|None|037|Vulpix||36|None|038|Ninetales||36|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||900|3|037|Vulpix||36|None|037|Vulpix||36|None|038|Ninetales||36|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||850|4|077|Ponyta||34|None|004|Charmander||34|None|037|Vulpix||34|None|058|Growlithe||34|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Burglar.png‎|Burglar||3690|1|077|Ponyta||41|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Super Nerd.png‎|Super Nerd||1025|1|078|Rapidash||41|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Burglar.png‎‎|Burglar||3330|2|037|Vulpix||37|None|058|Growlithe||37|None|}}
+{{Trainerdiv|Fire}}
+{{Trainerentry|Spr RG Super Nerd.png|Super Nerd||925|2|058|Growlithe||37|None|037|Vulpix||37|None|}}
+{{Trainerfooter|Fire|1|inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{fire color}}
+|bordercolor={{fire color dark}}
+|headcolor={{fire color light}}
+|sprite=Spr RG Blaine.png
+|prize={{pdollar}}4653
+|name={{color2|000|Blaine}}
+|game=RGB
+|location=Cinnabar Gym
+|pokemon=4}}
+|{{Pokémon/1
+|game=Red
+|ndex=058
+|pokemon=Growlithe
+|level=42
+|type1=Fire
+|move1=Ember|move1type=Fire
+|move2=Leer|move2type=Normal
+|move3=Take Down|move3type=Normal
+|move4=Agility|move4type=Psychic}}
+|{{Pokémon/1
+|game=Red
+|ndex=077
+|pokemon=Ponyta
+|level=40
+|type1=Fire
+|move1=Tail Whip|move1type=Normal
+|move2=Stomp|move2type=Normal
+|move3=Growl|move3type=Normal
+|move4=Fire Spin|move4type=Fire}}
+{{Party/Div|color={{fire color}}}}
+|{{Pokémon/1
+|game=Red
+|ndex=078
+|pokemon=Rapidash
+|level=42
+|type1=Fire
+|move1=Tail Whip|move1type=Normal
+|move2=Stomp|move2type=Normal
+|move3=Growl|move3type=Normal
+|move4=Fire Spin|move4type=Fire}}
+|{{Pokémon/1
+|game=Red
+|ndex=059
+|pokemon=Arcanine
+|level=47
+|type1=Fire
+|move1=Roar|move1type=Normal
+|move2=Ember|move2type=Fire
+|move3=Fire Blast|move3type=Fire
+|move4=Take Down|move4type=Normal}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{fire color}}
+|bordercolor={{fire color dark}}
+|headcolor={{fire color light}}
+|sprite=Spr Y Blaine.png
+|prize={{pdollar}}5346
+|name={{color2|000|Blaine}}
+|game=Y
+|location=Cinnabar Gym
+|pokemon=3}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=038
+|pokemon=Ninetales
+|level=48
+|type1=Fire
+|move1=Confuse Ray|move1type=Ghost
+|move2=Quick Attack|move2type=Normal
+|move3=Tail Whip|move3type=Normal
+|move4=Flamethrower|move4type=Fire}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=078
+|pokemon=Rapidash
+|level=50
+|type1=Fire
+|move1=Tail Whip|move1type=Normal
+|move2=Stomp|move2type=Normal
+|move3=Growl|move3type=Normal
+|move4=Fire Spin|move4type=Fire}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=059
+|pokemon=Arcanine
+|level=54
+|type1=Fire
+|move1=Reflect|move1type=Psychic
+|move2=Take Down|move2type=Normal
+|move3=Fire Blast|move3type=Fire
+|move4=Flamethrower|move4type=Fire}}
+{{Party/Footer}}===Generation I===
+{{Trainerheader|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||945|6|129|Magikarp||27||129|Magikarp||27||129|Magikarp||27||129|Magikarp||27||129|Magikarp||27||129|Magikarp||27|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||980|4|119|Seaking||28||118|Goldeen||28||119|Seaking||28||119|Seaking||28|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||165|2|117|Seadra||33||073|Tentacruel||33|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Cue Ball.png|Cue Ball||775|3|072|Tentacool||31||072|Tentacool||31||073|Tentacruel||31|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||1085|2|090|Shellder||31||091|Cloyster||31||||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Fisherman.png|Fisherman||1155|2|119|Seaking||33||118|Goldeen||33|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||185|1|121|Starmie||37|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||165|2|120|Staryu||33||008|Wartortle||33|||}}
+{{Trainerdiv|ocean}}
+{{Trainerentry|Spr RG Swimmer.png|Swimmer||160|3|061|Poliwhirl||32||072|Tentacool||32||117|Seadra||32|||}}
+{{Trainerfooter|ocean|I}}====={{game2|Red|Blue|Yellow}}=====
+{{trainerheader|Ground}}
+{{trainerentry|Spr RG Tamer.png|Tamer||1560|2|024|Arbok||39|None|128|Tauros||39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||1075|1|067|Machoke||43|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1365|2|033|Nidorino||39|None|034|Nidoking||39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Tamer.png|Tamer||1720|1|111|Rhyhorn||43|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||1000|2|066|Machop||40|None|067|Machoke||40|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1365|2|028|Sandslash||39|None|051|Dugtrio||39|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1505|1|111|Rhyhorn||43|None}}
+{{trainerdiv|Ground}}
+{{trainerentry|Spr RG Blackbelt.png|Blackbelt||950|3|067|Machoke||38|None|066|Machop||38|None|067|Machoke||38|None}}
+{{trainerfooter|Ground|1|inside}}
+
+======{{game|Red and Blue|s}}======
+{{Party/Single
+|color={{ground color}}
+|headcolor={{ground color light}}
+|bordercolor={{ground color dark}}
+|sprite=Spr RG Giovanni.png
+|prize={{Pdollar}}4950
+<!--GEN I HAD NO CLASSES-->
+|name={{color2|000|Giovanni}}
+|game=RGB
+|location=Viridian Gym
+|pokemon=5}}
+|{{Pokémon/1
+|game=Blue
+|ndex=111
+|pokemon=Rhyhorn
+|level=45
+|type1=Ground|type2=Rock
+|move1=Stomp|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Fury Attack|move3type=Normal
+|move4=Horn Attack|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=051
+|pokemon=Dugtrio
+|level=42
+|type1=Ground
+|move1=Growl|move1type=Normal
+|move2=Dig|move2type=Ground
+|move3=Sand-Attack|move3type=Normal
+|move4=Slash|move4type=Normal}}
+|{{Pokémon/1
+|game=Blue
+|ndex=031
+|pokemon=Nidoqueen
+|level=44
+|type1=Poison|type2=Ground
+|move1=Scratch|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Body Slam|move3type=Normal
+|move4=Poison Sting|move4type=Poison}}
+{{Party/Div|color={{ground color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=034
+|pokemon=Nidoking
+|level=45
+|type1=Poison|type2=Ground
+|move1=Tackle|move1type=Normal
+|move2=Horn Attack|move2type=Normal
+|move3=Poison Sting|move3type=Poison
+|move4=Thrash|move4type=Normal}}
+| style="margin:auto" |{{Pokémon/1
+|game=Blue
+|ndex=112
+|pokemon=Rhydon
+|level=50
+|type1=Ground|type2=Rock
+|move1=Stomp|move1type=Normal
+|move2=Tail Whip|move2type=Normal
+|move3=Fissure|move3type=Ground
+|move4=Horn Drill|move4type=Normal}}
+{{Party/Footer}}
+
+======{{game|Yellow}}======
+{{Party/Single
+|color={{ground color}}
+|headcolor={{ground color light}}
+|bordercolor={{ground color dark}}
+|sprite=Spr Y Giovanni.png
+|prize={{Pdollar}}5445
+<!--GEN I HAD NO CLASSES-->
+|name={{color2|000|Giovanni}}
+|game=Y
+|location=Viridian Gym
+|pokemon=5}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=051
+|pokemon=Dugtrio
+|level=50
+|type1=Ground
+|move1=Sand-Attack|move1type=Normal
+|move2=Dig|move2type=Ground
+|move3=Fissure|move3type=Ground
+|move4=Earthquake|move4type=Ground}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=053
+|pokemon=Persian
+|level=53
+|type1=Normal
+|move1=Screech|move1type=Normal
+|move2=Slash|move2type=Normal
+|move3=Fury Swipes|move3type=Normal
+|move4=Double Team|move4type=Normal}}
+|{{Pokémon/1
+|game=Yellow
+|ndex=031
+|pokemon=Nidoqueen
+|level=53
+|type1=Poison|type2=Ground
+|move1=Tail Whip|move1type=Normal
+|move2=Earthquake|move2type=Ground
+|move3=Double Kick|move3type=Fighting
+|move4=Thunder|move4type=Electric}}
+{{Party/Div|color={{ground color}}}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=034
+|pokemon=Nidoking
+|level=55
+|type1=Poison|type2=Ground
+|move1=Thunder|move1type=Electric
+|move2=Leer|move2type=Normal
+|move3=Earthquake|move3type=Ground
+|move4=Double Kick|move4type=Fighting}}
+| style="margin:auto" |{{Pokémon/1
+|game=Yellow
+|ndex=112
+|pokemon=Rhydon
+|level=55
+|type1=Ground|type2=Rock
+|move1=Rock Slide|move1type=Rock
+|move2=Fury Attack|move2type=Normal
+|move3=Earthquake|move3type=Ground
+|move4=Horn Drill|move4type=Normal}}
+{{Party/Footer}}====Generation I====
+{{Trainerheader|cave}}
+{{Trainerentry|Spr RG Cooltrainer F.png|Cooltrainer||1540|2|053|Persian||44||038|Ninetales||44|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1470|4|002|Ivysaur||42||008|Wartortle||42||005|Charmeleon||42||006|Charizard||42|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Blackbelt.png|Blackbelt||1075|3|067|Machoke||43||066|Machop||43||067|Machoke||43|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1435|4|096|Drowzee||41||097|Hypno||41||064|Kadabra||41||064|Kadabra||41|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Tamer.png|Tamer||1760|2|053|Persian||44||055|Golduck||44|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Juggler.png|Juggler||1680|1|122|Mr. Mime||48|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG PokéManiac.png|PokéManiac||2000|3|005|Charmeleon||40||131|Lapras||40||108|Lickitung||40|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1505|3|103|Exeggutor||43||091|Cloyster||43||059|Arcanine||43|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Cooltrainer F.png|Cooltrainer||1505|3|047|Parasect||43||087|Dewgong||43||113|Chansey||43|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Cooltrainer M.png|Cooltrainer||1505|3|099|Kingler||43||073|Tentacruel||43||009|Blastoise||43|||}}
+{{Trainerdiv|cave}}
+{{Trainerentry|Spr RG Cooltrainer F.png|Cooltrainer||1505|3|069|Bellsprout||43||070|Weepinbell||43||071|Victreebel||43|||}}
+{{trainerfooter|cave|I}}===Generation I===
+{{main|Indigo Plateau/Generation I}}
