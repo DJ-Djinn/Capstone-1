@@ -57,8 +57,23 @@ gen_three_sections = [9, 8, 4, 14, 8, 6, 7, 8, 8, 8, 7, 9, 8, 6, 9, 8, 8, 7, 14,
                       7, 15, 15, 25, 11, 11, 6, 7, 11, 9, 11, 10, 11, 8, 7, 7, 7, 12, 6, 11,\
                       8, 14, 20, 26, 32]
 
-gen_four_locations = []
-gen_four_sections = []
+gen_four_locations = ["Lake Verity", "Sinnoh Route 219", "Sinnoh Route 220", "SInnoh Route 221",\
+                      "Sinnoh Route 202", "Jubilife City", "Sinnoh Route 218", "Canalave City",\
+                      "Canalave Gym", "Sinnoh Route 203", "Oreburgh Gate", "Oreburgh Mine",\
+                      "Oreburgh Gym", "Sinnoh route 204", "Sinnoh Route 205", "Valley Windworks",\
+                      "Fuego Ironworks", "Eterna Forest", "Eterna Gym", "Team Galactic Eterna Building",\
+                      "Sinnoh Route 206", "Sinnoh Route 207", "Sinnoh Route 211", "Mt. Coronet",\
+                      "Sinnoh Route 216", "sinnoh Route 217", "Snowpoint Gym", "Sinnoh Route 208",\
+                      "Celestic Town", "Sinnoh Route 210", "Café Cabin", "Solaceon Ruins", "Sinnoh Route 209",\
+                      "Hearthome Gym", "Sinnoh Route 212", "Pastoria City", "Pastoria Gym", "Sinnoh Route 213",\
+                      "Valor Lakefront", "Lake Valor", "Sinnoh Route 214", "Veilstone City", "Veilstone Gym",\
+                      "Team Galactic HQ", "Team Galactic HQ", "Sinnoh Route 215", "Sinnoh Route 222",\
+                      "Sunyshore Gym", "Sinnoh Route 223", "Victory Road (Sinnoh)", "Pokémon League (Sinnoh)",\
+                      "Pokémon League (Sinnoh)", "Pokémon League (Sinnoh)", "Pokémon League (Sinnoh)",\
+                      "Pokémon League (Sinnoh)", "Pokémon League (Sinnoh)"]
+gen_four_sections = [4, 5, 5, 6, 5, 14, 5, 14, 4, 5, 5, 5, 4, 9, 11, 7, 7, 14, 6, 5, 7, 5, 11,\
+                     31, 6, 5, 4, 7, 11, 13, 3, 5, 5, 6, 9, 15, 4, 7, 4, 6, 5, 18, 6, 11, 14, 5,\
+                     7, 4, 5, 17, 6, 9, 12, 15, 18, 27]
 
 gen_five_loctions = []
 gen_five_sections = []
