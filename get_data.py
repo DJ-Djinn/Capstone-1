@@ -35,8 +35,27 @@ gen_two_sections = [16, 7, 8, 7, 7, 13, 7, 13, 7, 18, 10, 8, 12, 9, 7, 7, 10, 9,
                     7, 7, 7, 3, 8, 7, 7, 21, 7, 7, 20, 7, 7, 7, 8, 7, 7, 25, 7, 9, 9, 23, 1,\
                     2, 3, 4, 5]
 
-gen_three_locations = []
-gen_three_sections = []
+gen_three_locations = ["Hoenn Route 103", "Hoenn Route 102", "Pegtalburg Gym", "Hoenn Route 104",\
+                       "Petalburg Woods", "Rustboro Gym", "Hoenn Route 116", "Rusturf Tunnel",\
+                       "Hoenn Route 105", "Hoenn Route 106", "Gewford Gym", "Hoenn Route 107",\
+                       "Hoenn Route 108", "Abandoned Ship", "Hoenn Route 109", "Oceanic Museum",\
+                       "Hoenn Route 110", "Seaside Cycling Road", "Trick House", "Trick House",\
+                       "Trick House", "Trick House", "Trick House", "Trick House", "Trick House",\
+                       "Mauville City", "Mauville Gym", "Hoenn Route 117", "Hoenn Route 118",\
+                       "Hoenn Route 111", "Winstrate Family", "Hoenn Route 112", "Mt. Chimney",\
+                       "Jagged Pass", "Lavaridge Gym", "Hoenn Route 113", "Hoenn Route 114",\
+                       "Meteor Falls", "Hoenn Route 115", "Hoenn Route 119", "Weather Institute",\
+                       "Fortree Gym", "Hoenn Route 120", "Hoenn Route 121", "Mt. Pyre", "Hoenn Route 123",\
+                       "Lilycove City", "Team Aqua Hideout", "Hoenn Route 124", "Mossdeep Gym",\
+                       "Hoenn Route 125", "Hoenn Route 126", "Hoenn Route 127", "Hoenn Route 128",\
+                       "Hoenn Route 129", "Hoenn Route 130", "Hoenn Route 131", "Hoenn Route 132",\
+                       "Hoenn Route 133", "Hoenn Route 134", "Seafloor Cavern", "Sootopolis Gym",\
+                       "Victory Road (Hoenn)", "Ever Grande City", "Ever Grande City", "Ever Grande City",\
+                       "Ever Grande City", "Ever Grande City"]
+gen_three_sections = [9, 8, 4, 14, 8, 6, 7, 8, 8, 8, 7, 9, 8, 6, 9, 8, 8, 7, 14, 19, 24, 29,\
+                      39, 43, 48, 39, 6, 7, 10, 17, 4, 11, 5, 8, 6, 8, 10, 16, 7, 9, 11, 4, 12,\
+                      7, 15, 15, 25, 11, 11, 6, 7, 11, 9, 11, 10, 11, 8, 7, 7, 7, 12, 6, 11,\
+                      8, 14, 20, 26, 32]
 
 gen_four_locations = []
 gen_four_sections = []
