@@ -59,7 +59,7 @@ gen_three_sections = [9, 8, 4, 14, 8, 6, 7, 8, 8, 8, 7, 9, 8, 6, 9, 8, 8, 7, 14,
 
 gen_four_locations = ["Lake Verity", "Sinnoh Route 219", "Sinnoh Route 220", "SInnoh Route 221",\
                       "Sinnoh Route 202", "Jubilife City", "Sinnoh Route 218", "Canalave City",\
-                      "Canalave Gym", "Sinnoh Route 203", "Oreburgh Gate", "Oreburgh Mine",\
+                      "Canalave Gym", "Sinnoh Route 203", "Oreburgh Gate", "Oreburgh Mine", "Lost Tower",\
                       "Oreburgh Gym", "Sinnoh route 204", "Sinnoh Route 205", "Valley Windworks",\
                       "Fuego Ironworks", "Eterna Forest", "Eterna Gym", "Team Galactic Eterna Building",\
                       "Sinnoh Route 206", "Sinnoh Route 207", "Sinnoh Route 211", "Mt. Coronet",\
@@ -75,11 +75,40 @@ gen_four_sections = [4, 5, 5, 6, 5, 14, 5, 14, 4, 5, 5, 5, 4, 9, 11, 7, 7, 14, 6
                      31, 6, 5, 4, 7, 11, 13, 3, 5, 5, 6, 9, 15, 4, 7, 4, 6, 5, 18, 6, 11, 14, 5,\
                      7, 4, 5, 17, 6, 9, 12, 15, 18, 27]
 
-gen_five_loctions = []
-gen_five_sections = []
+gen_five_loctions = ["Nuvema Town", "Unova Route 1", "Unova Route 17", "Unova Route 18",\
+                     "Accumula Town", "Unova Route 2", "Striaton City", "Striaton Gym",\
+                     "Dreamyard", "Unova Route 3", "Wellspring Cave", "Nacrene City",\
+                     "Nacrene Gym", "Pinwheel Forest", "Castelia City", "Castgelia Gym",\
+                     "Unova Route 4", "Desert Resort", "Relic Castle", "Nimbasa City",\
+                     "Nimbasa Gym", "Unova Route 16", "Unova Route 5", "Driftveil City",\
+                     "Driftveil Gym", "Cold Storage", "Unova Route 6", "Mistralton Cave",\
+                     "Chargestone Cave", "Mistralton Gym", "Unova Route 7", "Celestial Tower",\
+                     "Twist Mountain", "Icirrus Gym", "Dragonspiral Tower", "Unova Route 8",\
+                     "Moor of Icirrus", "Tubeline Bridge", "Unova Route 9", "Battle House",\
+                     "Opelucid Gym", "Unova Route 10", "Victory Road (Black and White)",\
+                     "Pokémon League (Unova)", "Pokémon League (Unova)", "Pokémon League (Unova)",\
+                     "Pokémon League (Unova)", "N's Castle"]
+gen_five_sections = [14, 7, 7, 8, 14, 8, 17, 6, 14, 8, 8, 20, 4, 17, 53, 6, 7, 7, 8, 17, 6, 7,\
+                     9, 22, 6, 7, 13, 9, 9, 6, 9, 8, 11, 6, 12, 7, 7, 4, 11, 5, 8, 24, 11, 7,\
+                     18, 29, 40, 10]
 
-gen_six_locations = []
-gen_six_sections = []
+gen_six_locations = ["Aquacorde Town", "Kalos Route 2", "Santalune Forest", "Kalos Route 3",\
+                     "Santalune City", "Santalune Gym", "Kalos Route 22", "Kalos Route 4",\
+                     "Lumiose City", "Hotel Richissime", "Lumiose City restaurants", "Lumiose City restaurants",\
+                     "Lumiose City restaurants", "Lumiose City restaurants", "Kalos Route 5",\
+                     "Kalos Route 7", "Kalos Route 6", "Connecting Cave", "Kalos Route 8",\
+                     "Kalos Route 9", "Glittering Cave", "Cyllage Gym", "Kalos Route 10",\
+                     "Geosenge Town", "Team Flare Secret HQ", "Kalos Route 11", "Reflection Cave",\
+                     "Tower of Mastery", "Shalour Gym", "Kalos Route 12", "Azure Bay", "Coumarine City",\
+                     "Coumarine Gym", "Kalos Route 13", "Kalos Power Plant", "Kalos Route 14",\
+                     "Laverre Gym", "Poké Ball Factory", "Kalos Route 15", "Lost Hotel",\
+                     "Kalos Route 16", "Frost Cavern", "Kalos Route 17", "Anistar City",\
+                     "Anistar Gym", "Kalos Route 18", "Terminus Cave", "Couriway Town",\
+                     "Kalos Route 19", "Snowbelle Gym", "Kalos Route 20", "Kalos Route 21",\
+                     "Victory Road (Kalos)", "Pokémon League (Kalos)"]
+gen_six_sections = [11, 4, 3, 4, 13, 3, 5, 4, 66, 6, 1, 2, 3, 4, 5, 5, 5, 5, 8, 5, 8, 3, 5, 11,\
+                    2, 5, 4, 4, 3, 7, 5, 16, 3, 5, 2, 6, 3, 5, 4, 5, 4, 8, 5, 16, 3, 10, 11, 10,\
+                    7, 3, 4, 4, 13, 3]
 
 gen_seven_locations = []
 gen_seven_sections = []
