@@ -1,9 +1,9 @@
 import pandas as pd
 import os
 
-def cleaner():
-    for file in os.listdir('../Usage_Data'):
-        df = pd.read_csv(os.path.join('../Usage_Data/',file), header=3, sep='|')
+def cleaner(filepath):
+    for file in os.listdir(filepath):
+        df = pd.read_csv(os.path.join(filepath,file), header=3, sep='|')
         df = df.drop(index=[0, len(df)-1])
         df = df[df.columns[[1,2,3]]]
         df = df.rename(columns={df.columns[0]:'Rank', df.columns[1]:'Pokemon', df.columns[2]:'Weighted Usage %'})
@@ -14,4 +14,5 @@ def cleaner():
         df.to_csv(file.strip('.txt')+'.csv', index=False)
 
 if __name__ == '__main__':
-    cleaner()
+    cleaner('../../data/raw_data/1825_rating')
+    cleaner('../../data/raw_data/1695_rating')
