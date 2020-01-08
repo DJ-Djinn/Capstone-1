@@ -1,7 +1,7 @@
 import requests
 
 def make_url(month, rating, beginning):
-    if month == (i for i in beginning):
+    if month == beginning[0] or month == beginning[1] or month == beginning[2]:
         singles_url = 'https://www.smogon.com/stats/' + month + '/gen7pokebankou-' + str(rating) + '.txt'
         doubles_url = 'https://www.smogon.com/stats/' + month + '/gen7pokebankdoublesou-' + str(rating) + '.txt'
         return (singles_url, doubles_url)
@@ -17,9 +17,9 @@ def get_data(url):
 def save_data(lst, rating, beginning=None):
     for month in lst:
         urls = make_url(month, rating, beginning)
-        with open('singles_' + month + '.txt', 'w+') as singles_file:
+        with open('singles/' + month + '.txt', 'w+') as singles_file:
             singles_file.write(get_data(urls[0]))
-        with open('doubles_' + month + '.txt', 'w+') as doubles_file:
+        with open('doubles/' + month + '.txt', 'w+') as doubles_file:
             doubles_file.write(get_data(urls[1]))
 
 month_list = ['2016-11', '2016-12', '2017-01', '2017-02', '2017-03', '2017-04',\
@@ -32,5 +32,4 @@ month_list = ['2016-11', '2016-12', '2017-01', '2017-02', '2017-03', '2017-04',\
 beginning = ['2016-11', '2016-12', '2017-01']
 
 if __name__ == '__main__':
-    save_data(month_list, 1825)
-    save_data(month_list, 1695)
+    save_data(month_list, 1695, beginning)

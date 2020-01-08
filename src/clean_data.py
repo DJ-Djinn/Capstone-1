@@ -14,5 +14,5 @@ def cleaner(filepath):
         df.to_csv(file.strip('.txt')+'.csv', index=False)
 
 if __name__ == '__main__':
-    cleaner('../../data/raw_data/1825_rating')
-    cleaner('../../data/raw_data/1695_rating')
+    cleaner('../../raw_data/singles')
+    cleaner('../../raw_data/doubles')
