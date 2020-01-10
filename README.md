@@ -1,4 +1,4 @@
-# What? Metagame is evolving!
+# What? Your Metagame is Evolving!
 
 ![Pokemon logo](/img/pokemon_logo.jpg)
 
