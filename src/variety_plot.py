@@ -19,7 +19,7 @@ def sort_variety(filepath, months):
 def make_plot(singles_path, doubles_path, save_path, months):
     singles = sort_variety(singles_path, months)
     doubles = sort_variety(doubles_path, months)
-    fig, (ax1, ax2) =  plt.subplots(ncols=2, sharey=True, figsize=(16,8))
+    fig, (ax1, ax2) =  plt.subplots(ncols=2, sharey=True, figsize=(28,8))
     fig.suptitle('Number of Viable Pokémon Between Singles and Doubles', fontsize=16)
     ax1.scatter(months, singles)
     ax1.set_title('Singles')
