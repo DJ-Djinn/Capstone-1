@@ -35,13 +35,13 @@ def make_bar(singles_path, doubles_path, save_path):
     width = 0.4
 
     fig, ax = plt.subplots(figsize=(28,14))
-    fig.suptitle('Frequency of Pokémon in Top 15 of Singles and Doubles', fontsize=16)
+    fig.suptitle('Frequency of Pokémon in Top 15 of Singles and Doubles', fontsize=30)
     ax.bar(ind-width, singles, width, color='darkviolet', label='Singles')
     ax.bar(ind, doubles, width, color='darkorange', label='Doubles')
     ax.set_xticks(ticks=range(N))
     ax.set_xticklabels(keys)
-    ax.legend(loc='best')
-    plt.xticks(rotation=90)
+    ax.legend(loc='best', prop={'size': 30})
+    plt.xticks(fontsize=10, rotation=90)
     fig.savefig(save_path, dpi=125)
     plt.close('all')
 
