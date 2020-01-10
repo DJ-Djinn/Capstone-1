@@ -45,7 +45,7 @@ The real numbers were how many times that Pokémon was actually sent out onto th
 
 
 ## Data Analysis
-The way I decided to look at the general variety of the metagame was to look at how often each Pokémon got into the top 15 of usage each month with [this](frequency_plot.py) code.
+The way I decided to look at the general variety of the metagame was to look at how often each Pokémon got into the top 15 of usage each month with [this](src/frequency_plot.py) code.
 
 ![Top mons graph](img/frequency_top_15.png)
 
